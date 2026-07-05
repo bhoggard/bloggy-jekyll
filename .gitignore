@@ -28,3 +28,6 @@ assets/js/dist
 
 # Wrangler
 .wrangler
+
+# Migration tool output
+tools/migrate-mt-image-map.yml
