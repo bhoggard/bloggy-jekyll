@@ -28,7 +28,11 @@ There are no unit tests; `tools/test.sh` is the whole test suite (it rebuilds `_
 - `_data/contact.yml`, `_data/share.yml` — which contact icons and share buttons appear.
 - `assets/lib` — git submodule (chirpy-static-assets); run `git submodule update --init` after a fresh clone or the site will be missing JS/CSS assets.
 
+## Deployment
+
+The site is hosted on Cloudflare Pages (project `bloggy`, at `bloggy-ell.pages.dev`) via native Git integration — Cloudflare clones the repo and builds it directly, no GitHub Actions involved. Pushing to `main` triggers an automatic production build and deploy. Cloudflare's build image supports Ruby/Bundler natively; `.ruby-version` pins it to match `mise.toml`.
+
 ## Notes
 
-- The GitHub Actions deploy workflow was intentionally removed; there is no CI in this repo.
+- The GitHub Actions deploy workflow was intentionally removed in favor of Cloudflare Pages' own Git integration; there is no CI in this repo.
 - `_site/` and `.jekyll-cache/` are build output — never edit them.
