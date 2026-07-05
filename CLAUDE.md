@@ -6,7 +6,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 A personal Jekyll blog ("bloggy", art/culture/politics) built on the [Chirpy starter](https://github.com/cotes2020/chirpy-starter). The theme comes from the `jekyll-theme-chirpy` gem (~7.5) — layouts, includes, and Sass live inside the gem, not this repo. To inspect them: `bundle info --path jekyll-theme-chirpy`.
 
-Ruby 3.3.3 is pinned via `mise.toml`.
+Ruby 3.4.4 is pinned via `mise.toml` — this matches Cloudflare Pages' default build-image Ruby version so deploys don't pay for a from-source Ruby compile.
 
 ## Commands
 
@@ -30,7 +30,9 @@ There are no unit tests; `tools/test.sh` is the whole test suite (it rebuilds `_
 
 ## Deployment
 
-The site is hosted on Cloudflare Pages (project `bloggy`, at `bloggy-ell.pages.dev`) via native Git integration — Cloudflare clones the repo and builds it directly, no GitHub Actions involved. Pushing to `main` triggers an automatic production build and deploy. Cloudflare's build image supports Ruby/Bundler natively; `.ruby-version` pins it to match `mise.toml`.
+The site is hosted on Cloudflare Pages (project `bloggy`, at `bloggy-ell.pages.dev`) via native Git integration — Cloudflare clones the repo and builds it directly, no GitHub Actions involved. Pushing to `main` triggers an automatic production build and deploy.
+
+`.ruby-version` and `mise.toml` are both pinned to `3.4.4` deliberately — that's Cloudflare's build-image default. Pinning to any other version makes Cloudflare compile Ruby from source via `asdf`/`ruby-build` on every build (multiple minutes of `./configure && make`), instead of using the pre-baked interpreter.
 
 ## Notes
 
