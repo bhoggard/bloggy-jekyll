@@ -10,6 +10,20 @@
 
 /* append your custom style below */
 
+$sans-font: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+/* Site-wide font. Headings set their own font-family (don't inherit from
+   body), so they need an explicit override too. */
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: $sans-font;
+}
+
 /* Site title color, matching the ArtCat calendar logo's red */
 #sidebar .site-title {
   color: #bd2408;
