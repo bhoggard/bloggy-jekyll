@@ -91,6 +91,7 @@ end
 image_map = {}
 youtube_count = 0
 flickr_count = 0
+embed_count = 0
 image_count = 0
 id_link_count = 0
 slug_link_count = 0
@@ -156,6 +157,22 @@ entries.each do |row|
         image_count += 1
       end
       %(#{attr}="#{path}")
+    end
+  end
+
+  # Replace old Flash <object>/<embed> video embeds with modern iframes. These
+  # never play in any current browser (Flash was retired in 2021) regardless of
+  # markup validity. blip.tv and other now-defunct services have no iframe
+  # equivalent and are left as-is (they were already broken before Flash died too).
+  html = html.gsub(%r{<object[^>]*>.*?</object>}im) do |block|
+    if block =~ %r{youtube\.com/v/([a-zA-Z0-9_-]+)}
+      embed_count += 1
+      %(<iframe width="560" height="315" src="https://www.youtube.com/embed/#{$1}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>)
+    elsif block =~ %r{vimeo\.com/moogaloop\.swf\?clip_id=(\d+)}
+      embed_count += 1
+      %(<iframe src="https://player.vimeo.com/video/#{$1}" width="560" height="315" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>)
+    else
+      block
     end
   end
 
@@ -264,6 +281,7 @@ puts "Entries written: #{written}"
 puts "Distinct #{SOURCE_DOMAIN} images referenced: #{image_map.size} (#{image_count} occurrences)"
 puts "YouTube http:// links rewritten: #{youtube_count}"
 puts "Flickr http:// links rewritten: #{flickr_count}"
+puts "Old Flash object/embed video blocks converted to iframes: #{embed_count}"
 puts "Cross-post links resolved via numeric ID: #{id_link_count}"
 puts "Cross-post links resolved via underscore/dash slug match: #{slug_link_count}"
 puts "Old-site resource links pointed at legacy absolute URL: #{old_site_fallback_count}"
