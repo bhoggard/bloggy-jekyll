@@ -13,7 +13,7 @@ permalink: /2004/08/naked-act-up-pr.html
 <br />
 The men and women, members of <a href="http://www.actupny.org/"><span class="caps">ACT</span> UP</a> (<span class="caps">AIDS</span> Coalition to Unleash Power) said they staged the demonstration in front of the site of next weekÂ’s Republican National Convention in order to protest the Bush administrationÂ’s policies on <span class="caps">AIDS</span>.<br />
 <br />
-Â“This protest is to tell the naked truth to President Bush and the Republican Party,Â” said <span class="caps">ACT</span> UP member Robert Dabney, who kept his clothes on to talk to reporters. Â“Our protestors are demanding number one that the president support full debt cancellation for the poorest nations in the world.Â”<br />
+“This protest is to tell the naked truth to President Bush and the Republican Party,” said <span class="caps">ACT</span> UP member Robert Dabney, who kept his clothes on to talk to reporters. “Our protestors are demanding number one that the president support full debt cancellation for the poorest nations in the world.”<br />
 <br />
 The protestors were standing naked in the street for almost 15 minutes before police put them in handcuffs. Traffic, already slowed by sporadic closures in the area for security preparations, stood at a standstill in the meantime. </blockquote>
 <p><span class="caps">ACT</span> UPers were also involved in the anti-Bush banner <a href="http://www.actupny.org/reports/rnc_nyc.html">released in Grand Central last week</a>.</p>

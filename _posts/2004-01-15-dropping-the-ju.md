@@ -10,7 +10,7 @@ permalink: /2004/01/dropping-the-ju.html
 <br />
 Q. Do you have a deadline for removing U.S. troops from Iraq?<br />
 <br />
-A. Absolutely not. I think that would be a big mistake. To remove troops prematurely, Al QaedaÂ—which was not in Iraq, but is nowÂ—will set up shop in Iraq and present an enormous national-security danger.<br />
+A. Absolutely not. I think that would be a big mistake. To remove troops prematurely, Al Qaeda—which was not in Iraq, but is now—will set up shop in Iraq and present an enormous national-security danger.<br />
 <br />
 Q. Do you see Jesus Christ as the son of God and believe in him as the route to salvation and eternal life?<br />
 <br />

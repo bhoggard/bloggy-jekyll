@@ -9,7 +9,7 @@ permalink: /2007/02/hillary-clinton-2.html
 <p>An <a href="http://news.yahoo.com/s/ap/20070211/ap_on_el_pr/clinton2008;_ylt=Al_pkPKafZIZ9A9TCh.f98CyFz4D">AP story</a> from Saturday on Hillary Clinton&#8217;s campaign trip to New Hampshire includes these gems (emphasis mine):</p>
 <blockquote>Clinton acknowledged &#8220;a great deal of frustration and anger and outrage&#8221; over the war, and said she was working hard in the Senate to pass legislation capping troop levels in Iraq. She also vowed to try to bring to a vote a resolution disapproving of President Bush&#8217;s planned troop increase.<br />
 <br />
-&#8220;I&#8217;m still in the arena,&#8221; she said Â— an apparent riposte to a Democratic rival, former North Carolina Sen. John Edwards. Like Clinton, Edwards voted to authorize the invasion, but he has become a staunch war critic since leaving the Senate in 2004.<br />
+&#8220;I&#8217;m still in the arena,&#8221; she said — an apparent riposte to a Democratic rival, former North Carolina Sen. John Edwards. Like Clinton, Edwards voted to authorize the invasion, but he has become a staunch war critic since leaving the Senate in 2004.<br />
 <br />
 <strong>&#8220;It&#8217;s very easy to go around and say, &#8217;Let&#8217;s end the war,&#8217;&#8221; Clinton added. &#8220;If we had a Democratic president we would end the war.&#8221;</strong><br />
 <br />
@@ -17,7 +17,7 @@ Her toughest question came in Berlin, a struggling mill town in northern New Ham
 <br />
 Roger Tilton, 46, a financial adviser from Nashua, N.H., told Clinton that unless she recanted her vote, he was not in the mood to listen to her other policy ideas.<br />
 <br />
-&#8220;I want to know if right here, right now, once and for all and without nuance, you can say that war authorization was a mistake,&#8221; Tilton said. &#8220;I, and I think a lot of other primary voters Â— until we hear you say it, we&#8217;re not going to hear all the other great things you are saying.&#8221;<br />
+&#8220;I want to know if right here, right now, once and for all and without nuance, you can say that war authorization was a mistake,&#8221; Tilton said. &#8220;I, and I think a lot of other primary voters — until we hear you say it, we&#8217;re not going to hear all the other great things you are saying.&#8221;<br />
 <br />
 <strong>In response, Clinton repeated her assertion that &#8220;knowing what we know now, I would never have voted for it,&#8221; and said voters would have to decide for themselves whether her position was acceptable.</strong><br />
 <br />

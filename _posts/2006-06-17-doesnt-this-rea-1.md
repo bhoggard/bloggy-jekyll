@@ -9,7 +9,7 @@ permalink: /2006/06/doesnt-this-rea-1.html
 <p>I was reading this <a href="http://www.nytimes.com/2006/06/18/arts/design/18spea.html?ei=5088&en=f1d30a37fdbd001f&ex=1308283200&partner=rssnyt&emc=rss&pagewanted=all">article</a> in the <em>New York Times</em> on artists leaving their long-time galleries for others just now.  I don&#8217;t think I could parody the language in it &#8212; it&#8217;s pre-parodied.  Here are a few choice quotes:</p>
 <blockquote>Mr. Gagosian has emerged as the leading Lothario in the courtship wars. In addition to his two spaces in Chelsea and his Madison Avenue gallery, he has an outpost in Los Angeles and two in London, allowing him to offer artists exposure beyond the parameters of their primary dealers.<br />
 <br />
-In wooing more established artists, he might organize a focused exhibition of historically significant works âÂ€Â” many of which are borrowed back from collectors âÂ€Â” and publish an accompanying catalog with a text by a prominent art historian or author.<br />
+In wooing more established artists, he might organize a focused exhibition of historically significant works — many of which are borrowed back from collectors — and publish an accompanying catalog with a text by a prominent art historian or author.<br />
 <br />
 (Through an assistant, Anita Foden, Mr. Gagosian declined to be interviewed for this article. &#8220;He&#8217;s very, very busy,&#8221; she said.)<br />
 <br />

@@ -19,6 +19,6 @@ Now the two girls and a boy are covered with scabs and the boy cannot use his ri
 <br />
 &#8220;I have never seen in almost 14 years of Army experience anything that callous,&#8221; said Borell, who recounted the June 13 incident to The Associated Press.  <br />
 <br />
-A U.S. military spokesman said the children&#8217;s condition did not fall into a category that requires Army physicians to treat them Â— and that there was no inappropriate response on the part of the doctors. </blockquote>
+A U.S. military spokesman said the children&#8217;s condition did not fall into a category that requires Army physicians to treat them — and that there was no inappropriate response on the part of the doctors. </blockquote>
 <p>I wasn&#8217;t aware that doctors renounced the <a href="http://www.pbs.org/wgbh/nova/doctors/oath_classical.html">Hippocratic Oath</a> when they entered the military.</p>
 <p>[via <a href="http://www.silipups.net/archives/000018.html">Anees</a>]</p>

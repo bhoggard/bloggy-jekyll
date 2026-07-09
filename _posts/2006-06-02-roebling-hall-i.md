@@ -14,5 +14,5 @@ This Saturday June 3, 6-8pm preview party<br />
 <br />
 &#8230;<br />
 <br />
-This portion of the show is the last exhibition at Roebling HallâÂ€Â™s Brooklyn gallery.</blockquote>
+This portion of the show is the last exhibition at Roebling Hall’s Brooklyn gallery.</blockquote>
 <p>This makes me almost as sad as when Schroeder Romero left.  It&#8217;s the end of an era.  I fear Williamsburg is turning into a yuppie playground, but without anything like the public transit of much of Manhattan.  I&#8217;m sorry my schedule and the crappy weather discouraged me from attending William Powhida&#8217;s <a href="http://www.artcal.net/event/view/2/2609">eulogy</a> tonight.</p>

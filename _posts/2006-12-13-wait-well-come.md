@@ -16,5 +16,5 @@ photo by <a href="http://jameswagner.com/mt_archives/004315.html">James Wagner</
 <br />
 The city contends the materials could be embarrassing to people who were arrested, disclose police intelligence, or reveal environmental conditions that may hurt commercial development on the West Side waterfront or be useful to terrorists.<br />
 <br />
-In addition, the city lawyers said that medical reports from police officers who complained of getting sick after working at a temporary holding pen were Â“unreliableÂ” and Â“likely to contain misinformation.Â” </blockquote>
+In addition, the city lawyers said that medical reports from police officers who complained of getting sick after working at a temporary holding pen were “unreliable” and “likely to contain misinformation.” </blockquote>
 <p>They&#8217;re just throwing out excuses hoping one will stick.  Given that a huge number of people were arrested just for walking down neighborhood streets at the wrong time (many of them not protesters), the city has big payouts coming.  Perhaps someone can ask Bloomberg to donate some of his money instead of making the taxpayers of New York pay for his attempt to cozy up to the Republicans and their convention.</p>

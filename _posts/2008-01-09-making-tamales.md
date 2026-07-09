@@ -8,7 +8,7 @@ permalink: /2008/01/making-tamales.html
 <p>The next installment of <a href="/2007/10/mtaas-over-the.html"><span class="caps">OTO</span></a> is this Friday.</p>
 <p>&nbsp;</p>
 <p><img src="https://farm3.static.flickr.com/2199/2168498375_b1b8532997.jpg" alt="beach?"></p>
-<p>On January 11, from 7pm to 10 pm, <span class="caps">OTO</span> is pleased to present Â“I Want to Make Some TamalesÂ”, a cooking lesson by Elaine Tin Nyo</p>
+<p>On January 11, from 7pm to 10 pm, <span class="caps">OTO</span> is pleased to present “I Want to Make Some Tamales”, a cooking lesson by Elaine Tin Nyo</p>
 <p>Hands-on cooking lesson 7-8:30<br />
 Open public feeding 8:30 until the tamales run out</p>
 <p>Enrollment is limited for the cooking lesson. Please contact mriver@mteww.com to reserve your place (materials fee: $5).</p>

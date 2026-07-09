@@ -6,7 +6,7 @@ permalink: /2007/06/ohad-naharins-d-1.html
 ---
 
 <p><img alt="07.06.11.Ceda.jpg" src="/mt/archives/07.06.11.Ceda.jpg" width="600" height="280" /></p>
-<p>The Cedar Lake Contemporary Ballet performing Â“Arab Line.Â” (Michelle V. Agins/The New York Times)</p>
+<p>The Cedar Lake Contemporary Ballet performing “Arab Line.” (Michelle V. Agins/The New York Times)</p>
 <p>&nbsp;</p>
 <p><a href="http://www.cedarlakedance.com/">Cedar Lake Dance</a>, the <a href="http://www.forbes.com/lists/2007/10/07billionaires_Nancy-Walton-Laurie_0O2U.html">well-funded</a> dance company on 26th Street in the former Annie Leibovitz studios, <a href="http://www.villagevoice.com/dance/0511,zimmer,62047,14.html">hasn&#8217;t always received stellar reviews</a> for its choreographic choices.  While I hope they find some younger, underknown choreographers to work with, I have to say I am thrilled with what happened when they brought Ohad Naharin in for a residency with the company&#8217;s dancers.  If you didn&#8217;t know it, you would think these dances had been working with him for years.  It was one of my favorite evenings of dance in some time, and the music ranging from Arvo Pärt to Vivaldi to John Zorn is great fun too.</p>
 <p>It runs through July 1.  If you go, do <span class="caps">NOT</span> spend intermission away from the stage.  The night we attended, Jon Bond performed a sexy and funny solo during that time.  Go <a href="http://www.smarttix.com/show.aspx?showCode=DEC4">here</a> to buy tickets.</p>

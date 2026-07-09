@@ -22,5 +22,5 @@ Mr. Daniels&#8217;s driving-while-intoxicated record was well known, and he apol
 <br />
 &#8230;<br />
 <br />
- She has a daredevil streak. As a youngster, she crossed the Arkansas River on a pipeline in the black of night. As first lady, she has gone bungee jumping, and even skydiving Â— albeit strapped to an Army paratrooper.</blockquote>
+ She has a daredevil streak. As a youngster, she crossed the Arkansas River on a pipeline in the black of night. As first lady, she has gone bungee jumping, and even skydiving — albeit strapped to an Army paratrooper.</blockquote>
 <p>Well, maybe I miss it a little.  You have to read her statements in the proper accent.  Also, where do I sign up to get strapped to an Army paratrooper?</p>

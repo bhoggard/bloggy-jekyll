@@ -18,7 +18,7 @@ and the Institute for Medieval Japanese Studies at Columbia University.</p>
 Ichiyanagi undertook an ambitious project with a two-part mission: to<br />
 reconstruct ancient instruments preserved in Japan and to employ them in the<br />
 creation of a new kind of music. He and a diverse network of collaborators<br />
-would present the musicÂ‹performed on the restored Silk Road instrumentsÂ‹in<br />
+would present the music‹performed on the restored Silk Road instruments‹in<br />
 concerts around the world. By 2006, with assistance from the Buddhist order<br />
 Shinnyo-en (as part of their contribution to the arts), the project had<br />
 succeeded in recreating 14 kinds of ancient musical instruments, including<br />

@@ -22,13 +22,13 @@ Genre:  Documentary<br/></p>
 <blockquote>Gay Conway couple documented in film. Hendrix junior debuts Pink Houses <br />
 <br />
 BY <span class="caps">DEBRA</span> <span class="caps">HALE</span>-<span class="caps">SHELTON</span> <span class="caps">ARKANSAS</span> <span class="caps">DEMOCRAT</span>-<span class="caps">GAZETTE</span><br />
- <span class="caps">CONWAY</span> Â— To get to the home of John Schenck and Robert Loyd, no address is needed. Just ask almost anyone in Conway for directions to the Pink House, and that person can point the way, like it or not.<br />
+ <span class="caps">CONWAY</span> — To get to the home of John Schenck and Robert Loyd, no address is needed. Just ask almost anyone in Conway for directions to the Pink House, and that person can point the way, like it or not.<br />
 <br />
     And they may not.<br />
 <br />
     The two-story Queen Anne house, actually pink and blue, has a &#8220;Teach Tolerance&#8221; sign above the front entrance. It is home to gay hairstylists Schenck and Loyd.<br />
 <br />
-    In the past year the two have gone from relative unknowns to political activists. Their sexual orientation has landed them at the head of a gay-pride parade along the streets of Conway, in the center of more than a little controversy Â— not to mention manure Â— and now in a film documentary.<br />
+    In the past year the two have gone from relative unknowns to political activists. Their sexual orientation has landed them at the head of a gay-pride parade along the streets of Conway, in the center of more than a little controversy — not to mention manure — and now in a film documentary.<br />
 <br />
     The film, produced by Hendrix College student Jonathan Crawford, is titled Pink Houses.<br />
 <br />
@@ -48,7 +48,7 @@ BY <span class="caps">DEBRA</span> <span class="caps">HALE</span>-<span class="c
 <br />
     &#8220;I was absolutely floored that anybody would be brave enough&#8221; to do this film, added Schneck, who grew up in Long Island, N.Y.<br />
 <br />
-    If the film makes people think about prejudice, it will have accomplished something, he said. The documentary opens with the camera scanning the coupleÂ’s attractively decorated home: lace curtains, Hollywood photographs and autographs, elegantly framed personal pictures Â— including one of their &#8220;wedding&#8221; on the state Capitol steps Â— and their Canadian marriage license.<br />
+    If the film makes people think about prejudice, it will have accomplished something, he said. The documentary opens with the camera scanning the couple’s attractively decorated home: lace curtains, Hollywood photographs and autographs, elegantly framed personal pictures — including one of their &#8220;wedding&#8221; on the state Capitol steps — and their Canadian marriage license.<br />
 <br />
     The dialogue opens with the tall, slightly heavyset Schenck and the much smaller Loyd, both 55, sitting in their home and assailing President Bush and Gov. Mike Huckabee for opposing gay marriage.<br />
 <br />
@@ -56,7 +56,7 @@ BY <span class="caps">DEBRA</span> <span class="caps">HALE</span>-<span class="c
 <br />
     &#8220;It was not a real wedding. It was not a legal wedding. But it was a morally correct wedding, and it was a statement against a government that should not be sticking their noses into our business anymore,&#8221; says Loyd, a Vietnam veteran whose graying hair was a bleached blond in the photograph.<br />
 <br />
-    While the film is presented from the viewpoint of these two men, it also includes comment from a representative of the Family Council Â— a Little Rock-based organization that promotes traditional family values Â— and television footage of Greenbrier farmer Wesley Bono talking about his decision to spread a dump-truck load of manure along streets around the Pink House on the day of last summerÂ’s gay-pride parade.<br />
+    While the film is presented from the viewpoint of these two men, it also includes comment from a representative of the Family Council — a Little Rock-based organization that promotes traditional family values — and television footage of Greenbrier farmer Wesley Bono talking about his decision to spread a dump-truck load of manure along streets around the Pink House on the day of last summer’s gay-pride parade.<br />
 <br />
     &#8220;It didnÂ’t stop us,&#8221; Schenck says in the film, while standing outdoors with Loyd. &#8220;It smelled horrible for a couple of days, but weÂ’re used to dealing with manure.&#8221;<br />
 <br />

@@ -11,7 +11,7 @@ permalink: /2008/01/ina-diane-arche.html
 <br></p>
 <p>Ina Diane Archer, whose collages and videos were singled out by almost everyone who saw them in the <a href="http://danglingbetween.com/">show</a> we curated in the fall of 2006, sent me a trailer for her video <em>1/16th of 100%!?</em>.  If you&#8217;re going to be in Atlanta, go see it as part of</p>
 <p><a href="http://www.spelman.edu/_ezpost/data/22668.shtml">Cinema Remixed and Reloaded: Black Women Artists and the Moving Image Since 1970</a><br />
-Part II: January 24 Â– May 24, Spelman College Museum of<br />
+Part II: January 24 – May 24, Spelman College Museum of<br />
 Fine Art, Atlanta, GA.</p>
 <p>She describes it thusly:</p>
 <p><em>1/16th of 100%!?</em>, video (23 minutes) <br />

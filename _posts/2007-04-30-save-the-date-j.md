@@ -28,7 +28,7 @@ Sina Najafi, Editor in Chief and Co-founder, Cabinet Magazine</p>
 <p>Student Art Materials Awards funded by the Milton and Sally Avery Arts Foundation Inc.</p>
 <p>Ticket Prices:</p>
 <p>Gala Entry Ticket: $75<br />
-gala celebration with wine &amp; hors dÂ’oeuvres, from 7Â–9 p.m.</p>
+gala celebration with wine &amp; hors d’oeuvres, from 7–9 p.m.</p>
 <p>All Artworks: $150 Each<br />
 choose your own from the extraordinary array in our<br />
 emerging artists small works salon</p>

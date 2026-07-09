@@ -10,4 +10,4 @@ permalink: /2002/10/galileo-at-bam.html
 <p>Bad art is so depressing.</p>
 <p>&#8212;</p>
 <p>Followup on Thurday:  The <span class="caps">NYT</span> <a href="http://www.nytimes.com/2002/10/03/arts/music/03GALI.html">review</a>.  It&#8217;s one of the most non-committal things I have ever read.  One good quote though:<br />
-<blockquote>But without wishing to disparage either Mr. Glass or &#8220;Galileo&#8221; Â— which is notably fresher than Mr. Glass&#8217;s last few operas Â— can it really be that, 20 years on, Mr. Glass is still the standard-bearer for what&#8217;s &#8220;next&#8221; in music? Isn&#8217;t the festival now an entrenched orthodoxy with a postmodernist accent? </blockquote></p>
+<blockquote>But without wishing to disparage either Mr. Glass or &#8220;Galileo&#8221; — which is notably fresher than Mr. Glass&#8217;s last few operas — can it really be that, 20 years on, Mr. Glass is still the standard-bearer for what&#8217;s &#8220;next&#8221; in music? Isn&#8217;t the festival now an entrenched orthodoxy with a postmodernist accent? </blockquote></p>

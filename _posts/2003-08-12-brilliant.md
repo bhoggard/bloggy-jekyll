@@ -22,7 +22,7 @@ This fully pose-able action figure of the Commander in Chief is likely correct d
 <br />
 Winning bidder will be notified of upcoming <span class="caps">GWBANG</span> accessories; pile of dried branches, action pretzel, overstuffed bags with &#8220;$&#8221; printed on them, blindfold, bible with real, highlighted passages, and earplugs. <br />
 <br />
-The winning bidder will also receive <span class="caps">TWO</span> bonus gifts: the George W. Bush &#8220;Afternoon of September 11th 2001&#8221; tennis ensemble, and a genuine Â“First Lady Laura Bush Serving Sandwiches at a VA HospitalÂ” action figure! <br />
+The winning bidder will also receive <span class="caps">TWO</span> bonus gifts: the George W. Bush &#8220;Afternoon of September 11th 2001&#8221; tennis ensemble, and a genuine “First Lady Laura Bush Serving Sandwiches at a VA Hospital” action figure! <br />
 <br />
 Supplies are limited; don&#8217;t let yours disappear!  <br />
 <br />

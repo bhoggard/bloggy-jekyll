@@ -14,7 +14,7 @@ Gibson: I was just finding, more and more, that proper sentences and punctuation
 <br />
 Rail: There is also a strong thread of narrative fragmentation running through your pieces. Your characters are often collecting found objects, listening to voices in the stairwell, seeing snippets of home video through windows. The stories are never really beginning or ending.<br />
 <br />
-Gibson: Well, lives donÂ’t behave. We are porous and susceptible beings and even when our intentions are definite we ineluctably veer. The veering is what interests meÂ— that and the secret conversation that underlies every out loud one. I just feel such great affection for the evidence of our tragic, silly, smart and stupid selves.</blockquote>
+Gibson: Well, lives don’t behave. We are porous and susceptible beings and even when our intentions are definite we ineluctably veer. The veering is what interests me— that and the secret conversation that underlies every out loud one. I just feel such great affection for the evidence of our tragic, silly, smart and stupid selves.</blockquote>
 <p>Here is a sample of the play:</p>
 <blockquote> (Ring ring. Jen turns down the volume on the tape player and answers the phone.)<br />
 <br />

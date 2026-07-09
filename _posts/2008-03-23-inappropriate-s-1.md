@@ -14,7 +14,7 @@ Published: March 23, 2008</p>
 <p>&#8230;</p>
 </blockquote>
 <blockquote>
-<p>Â“I actually think violent action isnÂ’t radical at all,Â” he said firmly. Â“Radicals go to the root of the problem, and they want to change society. Violence doesnÂ’t change society, and if it doesnÂ’t go to the root of the problem, itÂ’s not radical.Â” Mr. Kelly paused. Â“I donÂ’t know what it is,Â” he added, Â“but it has nothing to do with what I want to do.Â”</p>
+<p>“I actually think violent action isn’t radical at all,” he said firmly. “Radicals go to the root of the problem, and they want to change society. Violence doesn’t change society, and if it doesn’t go to the root of the problem, it’s not radical.” Mr. Kelly paused. “I don’t know what it is,” he added, “but it has nothing to do with what I want to do.”</p>
 </blockquote>
 <blockquote>
 <p><strong>Drama, Yes. Violence, No.</strong></p>

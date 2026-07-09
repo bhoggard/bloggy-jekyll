@@ -16,7 +16,7 @@ January 30-February 1<br />
 Admission: $5 + 2 cans of food or $10</p>
 <p>I recommend going on the 31st, and then heading out to Williamsburg for a party where you can also see an installation by him:</p>
 <p>After party &amp; art exhibition<br />
-Featuring &#8220;Untitled No. 2&#8221;Â Â A drawing installation by Yuval Pudik<br />
-@ <span class="caps">NAR</span>, 152 Metropolitan Ave.Â Â (corner of Berry)Â Â <br />
-Williamsburg, BrooklynÂ Â  <br />
+Featuring &#8220;Untitled No. 2&#8221;  A drawing installation by Yuval Pudik<br />
+@ <span class="caps">NAR</span>, 152 Metropolitan Ave.  (corner of Berry)  <br />
+Williamsburg, Brooklyn   <br />
 Tel. 718-599-3027</p>

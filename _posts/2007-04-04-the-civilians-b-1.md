@@ -16,5 +16,5 @@ Between 6th Avenue &amp; Broadway<br />
 New York, NY 10036<br />
 8pm to 1am, Performance at 9pm</p>
 <p>Enjoy drinks and dancing in this new Midtown club, surrounded by The CiviliansÂ’ artists, friends, and supporters. Includes complimentary drinks from event sponsors Tequila Corazón, SmithwickÂ’s Ale, and Red Stripe Beer; full cash bar; silent auction; and raffle.</p>
-<p>Members of The Civilians will perform songs from the companyÂ’s new show about Evangelical ChristianityÂ—along with a few favorites by Michael Friedman. </blockquote></p>
+<p>Members of The Civilians will perform songs from the company’s new show about Evangelical Christianity—along with a few favorites by Michael Friedman. </blockquote></p>
 <p>In a lucky bit of timing, they were in Colorado Springs visiting Ted Haggard&#8217;s church as part of their research when all the <a href="http://americablog.blogspot.com/2006/11/no-nothing-gay-there.html">excitement</a> broke.</p>

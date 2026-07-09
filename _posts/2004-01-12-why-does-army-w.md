@@ -20,7 +20,7 @@ Record criticized the Bush administration for lumping together al Qaeda and Pres
 <br />
 &#8220;The result has been an unnecessary preventive war of choice against a deterred Iraq that has created a new front in the Middle East for Islamic terrorism and diverted attention and resources away from securing the American homeland against further assault by an undeterrable al Qaeda,&#8221; Record wrote.</blockquote>
 <p>This also seems like a good time to point out a story that most people seemed to have missed, since very few other news organizations picked it up after the NY Times reported it: <a href="http://www.nytimes.com/2004/01/08/international/middleeast/08WEAP.html">U.S. Withdraws a Team of Weapons Hunters From Iraq</a>.</p>
-<blockquote><span class="caps">WASHINGTON</span>, Jan. 7 Â— The Bush administration has quietly withdrawn from Iraq a 400-member military team whose job was to scour the country for military equipment, according to senior government officials.<br />
+<blockquote><span class="caps">WASHINGTON</span>, Jan. 7 — The Bush administration has quietly withdrawn from Iraq a 400-member military team whose job was to scour the country for military equipment, according to senior government officials.<br />
 <br />
 The step was described by some military officials as a sign that the administration might have lowered its sights and no longer expected to uncover the caches of chemical and biological weapons that the White House cited as a principal reason for going to war last March.<br />
 <br />

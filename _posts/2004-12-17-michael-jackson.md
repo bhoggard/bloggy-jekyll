@@ -6,4 +6,4 @@ permalink: /2004/12/michael-jackson.html
 ---
 
 <p><a href="http://www.koreus.com/files/200408/lego_thriller.html">Awesome</a>.  All 15 minutes, with choreography, as stop-action Lego animation.</p>
-<p>You can download it for safe-keeping.  It&#8217;s the link that says <em>TïÂ¿Å“lïÂ¿Å“charger la vidïÂ¿Å“o</em>.</p>
+<p>You can download it for safe-keeping.  It&#8217;s the link that says <em>Tᅵlᅵcharger la vidᅵo</em>.</p>

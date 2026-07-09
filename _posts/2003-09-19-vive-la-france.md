@@ -12,7 +12,7 @@ If you add up how France behaved in the run-up to the Iraq war (making it imposs
 <br />
 &#8230;<br />
 <br />
-But then France has never been interested in promoting democracy in the modern Arab world, which is why its pose as the new protector of Iraqi representative government Â— after being so content with Saddam&#8217;s one-man rule Â— is so patently cynical.</blockquote>
+But then France has never been interested in promoting democracy in the modern Arab world, which is why its pose as the new protector of Iraqi representative government — after being so content with Saddam&#8217;s one-man rule — is so patently cynical.</blockquote>
 <p>Ah, yes.  America has been so anti-Saddam.</p>
 <blockquote><img alt="rumsfeld-hussein.jpg" src="/mt/archives/rumsfeld-hussein.jpg" width="220" height="168" border="0" /><br />
 <br />

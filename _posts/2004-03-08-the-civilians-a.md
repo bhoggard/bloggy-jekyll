@@ -24,11 +24,11 @@ New renditions of Civilians songs including selections from our upcoming show No
 <br />
 Tony-Winner Karen Ziemba (Never Gonna Dance,  Contact)<br />
 Bayne Gibby (HBO&#8217;s Out on the Edge)<br />
-Mo Rocca (Comedy CentralÂ’s Â“The Daily ShowÂ”)<br />
+Mo Rocca (Comedy Central’s “The Daily Show”)<br />
 and more to be announced soon.<br />
 <br />
 <span class="caps">GRAND</span>  <span class="caps">HARMONIOUS</span> <span class="caps">AFTERPARTY</span><br />
-10pm Â– Midnight<br />
+10pm – Midnight<br />
 with dancing and music by DJ Kozmik</blockquote>
 <p>Here is the <a href="http://www.thecivilians.org/benefit2004/index.html">link</a> to the benefit page, including how to get tickets.</p>
 <p>I have written about The Civilians <a href="https://bloggy.com/mt/search?IncludeBlogs=1&search=civilians.org">quite a bit</a>.  If you want to hear what some of their songs sound like, I have some MP3s <a href="/2003/10/the-civilians-g.html">here</a>.</p>

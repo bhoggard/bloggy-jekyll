@@ -12,5 +12,5 @@ permalink: /2007/06/the-trial-of-to-1.html
 <br />
 &#8230;<br />
 <br />
-To compound his problems, the International Criminal Court is looking to bring War Crimes charges against the former UK and U.S. leaders Â– and now that Blair isnÂ’t Prime Minister, he no longer has Diplomatic Immunity from prosecution.</blockquote>
+To compound his problems, the International Criminal Court is looking to bring War Crimes charges against the former UK and U.S. leaders – and now that Blair isn’t Prime Minister, he no longer has Diplomatic Immunity from prosecution.</blockquote>
 <p>I looked at <a href="http://news.google.com/news?um=1&tab=wn&client=firefox-a&ie=utf-8&oe=utf-8&rls=org.mozilla%3Aen-US%3Aofficial&q=%22the%20trial%20of%20tony%20blair%22">Google News</a> to see who had written about it in the U.S,, and came up with very few items from this country.  It&#8217;s interesting to me that the <em>New York Times</em> never mentioned it.  Perhaps it hits a little too close to home, and they fear some of their <a href="http://en.wikipedia.org/wiki/Judith_Miller_(journalist)">reporters</a> might have to testify in such a trial.</p>

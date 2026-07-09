@@ -22,7 +22,7 @@ The first, an oil and tempera on wood entitled View of Mount Sinai, was bought a
 <br />
 The Baptism of Christ is believed to have been painted in Venice, shortly after El Greco left Crete in 1567. Christie&#8217;s describes it as a &#8220;scintillating example of the great artist&#8217;s work at this most exciting, formative moment of his career&#8221;.<br />
 <br />
-For weeks, children, union members, businessmen and churchgoers have been raising funds for the work, with priests using sermons to call for people to help buy the painting. With banks also guaranteeing a loan, officials predict they will easily raise the Â£600,000 Christie&#8217;s expects at the auction</blockquote>
-<p>They <a href="http://news.bbc.co.uk/1/hi/entertainment/arts/4079755.stm">succeeded</a> in buying it at auction in London, for Â£789,250.</p>
+For weeks, children, union members, businessmen and churchgoers have been raising funds for the work, with priests using sermons to call for people to help buy the painting. With banks also guaranteeing a loan, officials predict they will easily raise the £600,000 Christie&#8217;s expects at the auction</blockquote>
+<p>They <a href="http://news.bbc.co.uk/1/hi/entertainment/arts/4079755.stm">succeeded</a> in buying it at auction in London, for £789,250.</p>
 <p><a href="/2004/01/mater-dolorosa.html">This</a> is one of my favorite works of El Greco.</p>
 <p>[image from The Guardian]</p>

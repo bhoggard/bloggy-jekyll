@@ -6,7 +6,7 @@ permalink: /2005/01/congratulations-4.html
 ---
 
 <blockquote>
-<p>Anonymous Was A Woman has announced the 10 artists selected to receive the Foundation&#8217;s ninth annual awards. The &#8220;no strings&#8221;Â grant of $25,000 enables women over 35, at a critical juncture in their lives or careers, to continue to grow, recover from traumatic life events, and pursue their work.</p>
+<p>Anonymous Was A Woman has announced the 10 artists selected to receive the Foundation&#8217;s ninth annual awards. The &#8220;no strings&#8221; grant of $25,000 enables women over 35, at a critical juncture in their lives or careers, to continue to grow, recover from traumatic life events, and pursue their work.</p>
 </blockquote>
 <blockquote>
 <p>As the name implies, the nominators and those associated with the program are un-named, and artists are unaware that they are being considered for the award.</p>

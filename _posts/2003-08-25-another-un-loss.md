@@ -7,7 +7,7 @@ permalink: /2003/08/another-un-loss.html
 
 <blockquote><img alt="HooperRick.jpg" src="/mt/archives/HooperRick.jpg" width="299" height="287" border="0" /><br />
 <br />
-Rick Hooper died as he lived Â— trying to bring peace in the Middle East. (Photo by Robert Zash)</blockquote>
+Rick Hooper died as he lived — trying to bring peace in the Middle East. (Photo by Robert Zash)</blockquote>
 <p>I have already <a href="/2003/08/sergio-vieira-d.html">written</a> about the death of Sergio Vieira de Mello in the bombing of U.N. headquarters in Iraq.  From the NY Blade comes the story of the death of <a href="http://www.nyblade.com/2003/8-22/news/localnews/unenvoy.cfm">Rick Hooper</a>, an openly gay U.N. employee who was fluent in Arabic and had worked on missions in the Gaza Strip and Iraq.</p>
 <blockquote>Rick Hooper, a New Yorker who worked on peacekeeping missions for the United Nations, died on Tuesday, August 19, in the explosion of the U.N.Â’s headquarters in Baghdad.<br />
 <br />
@@ -25,4 +25,4 @@ He attended the University of California at Santa Cruz and graduated from Steven
 <br />
 He received a Fulbright Scholarship to study at the University of Damascus. He also studied at the Center for American Studies Abroad at the American University in Cairo. He received a masterÂ’s degree in international diplomacy from Georgetown University. During his last semester at Georgetown he also worked in New York for the LawyerÂ’s Committee for Human Rights on Palestinian issues.<br />
 <br />
-He immediately started working for the U.N. in the Gaza Strip. Â“He was such an incredible supporter of peace,Â” Zash said. Â“In the Gaza Strip during Desert Storm, he refused to wear a gas mask. During curfews, he would drive around in a U.N. vehicle so people knew there was a U.N. presence.Â” </blockquote>
+He immediately started working for the U.N. in the Gaza Strip. “He was such an incredible supporter of peace,” Zash said. “In the Gaza Strip during Desert Storm, he refused to wear a gas mask. During curfews, he would drive around in a U.N. vehicle so people knew there was a U.N. presence.” </blockquote>

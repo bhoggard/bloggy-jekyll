@@ -9,7 +9,7 @@ permalink: /2004/06/im-not-dead-yet.html
 <p>Last chance stuff for today (a couple end tomorrow), by neighborhood:</p>
 <p><b><span class="caps">DUMBO</span></b></p>
 <p><a href="http://www.tagprojects.com/">Death to the fascist insect that preys on the life of the people</a><br />
-Gallery 800 Â• 70 Washington Street, Suite 800<br />
+Gallery 800 • 70 Washington Street, Suite 800<br />
 (That&#8217;s a quote from the Symbionese Liberation Army, in case you&#8217;re fuzzy on fringe political movements.)</p>
 <p>Sunrise Sunset &#8211; group show curated by Amanda Church and Courtney J. Martin<br />
 <a href="http://www.smackmellon.org/">Smack Mellon</a><br />

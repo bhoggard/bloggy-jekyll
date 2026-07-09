@@ -9,4 +9,4 @@ permalink: /2004/03/rarely-is-the-q.html
 <p>We are #1 in <span class="caps">GDP</span>, in wealth, in military technology, in military spending, in health technology, but we haven&#8217;t figured out how to be better than <a href="http://www.childrensdefense.org/familyincome/childpoverty/basicfacts.asp">last</a> in rankings of child poverty among the 18 wealthy industrialized nations.</p>
 <p>Wondering about the title of my post?</p>
 <blockquote>&#8220;Rarely is the question asked: Is our children learning?&#8221;<br />
-Â— <a href="http://slate.msn.com/id/76886/">George W. Bush, Florence, S.C., Jan. 11, 2000</a></blockquote>
+— <a href="http://slate.msn.com/id/76886/">George W. Bush, Florence, S.C., Jan. 11, 2000</a></blockquote>

@@ -29,9 +29,9 @@ Tasini: against</p>
 </ul>
 <p>From the endorsement:</p>
 <blockquote>
-<p>On a shoestring campaign, Tasini has raised critical questionsÂ—most prominently about this nationÂ’s disastrous policy in Iraq. Not incidentally, he is also a supporter of same-sex marriage.</p>
+<p>On a shoestring campaign, Tasini has raised critical questions—most prominently about this nation’s disastrous policy in Iraq. Not incidentally, he is also a supporter of same-sex marriage.</p>
 </blockquote>
 <blockquote>
-<p>Clinton has ducked fair dialogue on where she stands on the most pressing foreign policy question facing the nation. Just because she can get away with it does not make it the right thing to do. Clinton has also bobbed and weaved this year on gay rights. Activists have pressed her on her opposition to gay marriageÂ—and come away disappointed that did not even speak out on the dignity of gay families on the Senate floor when Congress debated the ugly Marriage Protection Amendment.</p>
+<p>Clinton has ducked fair dialogue on where she stands on the most pressing foreign policy question facing the nation. Just because she can get away with it does not make it the right thing to do. Clinton has also bobbed and weaved this year on gay rights. Activists have pressed her on her opposition to gay marriage—and come away disappointed that did not even speak out on the dignity of gay families on the Senate floor when Congress debated the ugly Marriage Protection Amendment.</p>
 </blockquote>
 <p>Note that I&#8217;m not saying the gay issue overrides all.  I think the fact that both of New York&#8217;s senators voted for the Iraq War, when the overwhelming majority of their constituents were opposed to it (and millions demonstrated on the streets), should be enough reason to get rid of both as soon as possible.  The Democratic primary is really our only chance to have a say in this.</p>

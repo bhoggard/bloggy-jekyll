@@ -12,6 +12,6 @@ permalink: /2005/09/they-grounded-h.html
 <br />
 The provisions, secured by U.S. Rep. Charlie Melancon, D-Napoleonville, and state Agriculture Commissioner Bob Odom, baked in the afternoon sun as Bush surveyed damage across southeast Louisiana five days after Katrina made landfall as a Category 4 storm, said MelanconÂ’s chief of staff, Casey OÂ’Shea.<br />
 <br />
-Â“We had arrangements to airlift food by helicopter to these folks, and now the food is sitting in trucks because they wonÂ’t let helicopters fly,Â” OÂ’Shea said Friday afternoon.<br />
+“We had arrangements to airlift food by helicopter to these folks, and now the food is sitting in trucks because they won’t let helicopters fly,” O’Shea said Friday afternoon.<br />
 <br />
 The food was expected to be in the hands of storm survivors after the president left the devastated region Friday night, he said.</blockquote>

@@ -13,7 +13,7 @@ Of these doctors, 35 percent were doing so more often than they had in the five 
 <br />
 &#8230;<br />
 <br />
-According to the study, doctors are often caught between their obligation to provide information and their fear of being asked to cheat insurance companies so that patients can receive care they are not eligible for Â— a practice called &#8220;gaming the system.&#8221;<br />
+According to the study, doctors are often caught between their obligation to provide information and their fear of being asked to cheat insurance companies so that patients can receive care they are not eligible for — a practice called &#8220;gaming the system.&#8221;<br />
 <br />
 It is also suggested that doctors whose revenue is significantly tied to managed care companies tend to hold back information about non-covered treatments to some patients.<br />
 <br />

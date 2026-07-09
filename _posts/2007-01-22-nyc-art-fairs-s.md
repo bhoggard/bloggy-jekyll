@@ -12,6 +12,6 @@ permalink: /2007/01/nyc-art-fairs-s.html
 <br />
 The two main fairs, The Art Show and The Armory Show, recently scheduled their events at the same time, in an effort to create a major art week in the city. A number of smaller fairs will take place as well. Executives at the Art Show are trying to get Mayor Bloomberg to open their show at the very least.<br />
 <br />
-Â“In the art world, things are more event driven then ever before and New York needs to be promoted now that we have so much competition from London and Miami and Switzerland,Â” says Linda Blumberg, executive director of the Art Show. Â“ItÂ’s really important that the city take on ownership of this.Â”<br />
+“In the art world, things are more event driven then ever before and New York needs to be promoted now that we have so much competition from London and Miami and Switzerland,” says Linda Blumberg, executive director of the Art Show. “It’s really important that the city take on ownership of this.”<br />
 <br />
 The city did help The Armory Show secure its new venue at Pier 94 for that week. And <span class="caps">NYC</span> &amp; Co. banners advertising The Armory Show and a smaller fair called Scope, will go up this week.</blockquote>

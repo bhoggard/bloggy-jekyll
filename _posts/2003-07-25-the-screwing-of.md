@@ -11,23 +11,23 @@ permalink: /2003/07/the-screwing-of.html
 <p>Some selections from Palast&#8217;s <a href="http://www.alternet.org/story.html?StoryID=16172">article</a>:</p>
 <blockquote>&#8230;<br />
 <br />
-And why is McKinney dangerous/loony/disgusting? According to <span class="caps">NPR</span>, Â“McKinney implied that the [Bush] Administration knew in advance about September 11 and deliberately held back the information.Â”<br />
+And why is McKinney dangerous/loony/disgusting? According to <span class="caps">NPR</span>, “McKinney implied that the [Bush] Administration knew in advance about September 11 and deliberately held back the information.”<br />
 <br />
-The New York TimesÂ’ Lynette Clemetson revealed her comments went even further over the edge: Â“Ms. McKinney suggest[ed] that President Bush might have known about the September 11 attacks but did nothing so his supporters could make money in a war.Â”<br />
+The New York Times’ Lynette Clemetson revealed her comments went even further over the edge: “Ms. McKinney suggest[ed] that President Bush might have known about the September 11 attacks but did nothing so his supporters could make money in a war.”<br />
 <br />
-ThatÂ’s loony, all right. As an editor of the highly respected Atlanta Journal Constitution told <span class="caps">NPR</span>, McKinneyÂ’s Â“practically accused the President of murder!Â”<br />
+That’s loony, all right. As an editor of the highly respected Atlanta Journal Constitution told <span class="caps">NPR</span>, McKinney’s “practically accused the President of murder!”<br />
 <br />
 Problem is, McKinney never said it.<br />
 <br />
-ThatÂ’s right. The Â“quoteÂ” from McKinney is a complete fabrication. A whopper, a fabulous fib, a fake, a flim-flam. Just freakinÂ’ made up. <br />
+That’s right. The “quote” from McKinney is a complete fabrication. A whopper, a fabulous fib, a fake, a flim-flam. Just freakin’ made up. <br />
 <br />
 &#8230;<br />
 <br />
-The McKinney Â“quoteÂ” was, indeed, all over the place: in the Washington Post, National Public Radio, and needless to say, all the other metropolitan dailies Â– everywhere but in Congresswoman McKinneyÂ’s mouth.<br />
+The McKinney “quote” was, indeed, all over the place: in the Washington Post, National Public Radio, and needless to say, all the other metropolitan dailies – everywhere but in Congresswoman McKinney’s mouth.<br />
 <br />
 Nor was it in the Congressional Record, nor in any recorded talk, nor on her Website, nor in any of her radio talks. HereÂ’s the CongresswomanÂ’s statement from the record:<br />
 <br />
-Â“George Bush had no prior knowledge of the plan to attack the World Trade Center on September 11.Â”<br />
+“George Bush had no prior knowledge of the plan to attack the World Trade Center on September 11.”<br />
 <br />
 Oh.<br />
 <br />
@@ -39,15 +39,15 @@ She was beaten in the August 2002 Democratic primary. More precisely, she was be
 <br />
 Months before the 2000 presidential elections, the offices of Florida Governor Jeb Bush and Secretary of State Katherine Harris ordered the removal of 90,000 citizens from the voter rolls because they were convicted felons . . . and felons canÂ’t vote in Florida. There was one problem: 97 percent of those on the list were, in fact, innocent.<br />
 <br />
-They werenÂ’t felons, but they were guilty . . . of not being white. Over half the list contained names of non-whites. IÂ’m not guessing: I have the list from out of the computers of Katherine HarrisÂ’ office Â– and the Â“scrubbedÂ” voterÂ’s race is listed with each name. <br />
+They weren’t felons, but they were guilty . . . of not being white. Over half the list contained names of non-whites. I’m not guessing: I have the list from out of the computers of Katherine Harris’ office – and the “scrubbed” voter’s race is listed with each name. <br />
 <br />
 &#8230;<br />
 <br />
-At <span class="caps">BBC</span> Television, we had FloridaÂ’s computer files and documents, marked Â“confidentialÂ” Â– stone-cold evidence showing how the vote fix was deliberately crafted by Republican officials. Not a single major U.S. paper asked for the documents Â– not from the state of Florida nor from the <span class="caps">BBC</span>. Only one U.S. Congressperson asked for the evidence and made it public: Cynthia McKinney of Atlanta.<br />
+At <span class="caps">BBC</span> Television, we had Florida’s computer files and documents, marked “confidential” – stone-cold evidence showing how the vote fix was deliberately crafted by Republican officials. Not a single major U.S. paper asked for the documents – not from the state of Florida nor from the <span class="caps">BBC</span>. Only one U.S. Congressperson asked for the evidence and made it public: Cynthia McKinney of Atlanta.<br />
 <br />
 That was her mistake.<br />
 <br />
-The company that came up with the faux felon list that determined the presidency: a Republican-tied database company named Â“ChoicePoint,Â” one of the richest, most powerful companies in Atlanta. <br />
+The company that came up with the faux felon list that determined the presidency: a Republican-tied database company named “ChoicePoint,” one of the richest, most powerful companies in Atlanta. <br />
 <br />
 &#8230;<br />
 <br />

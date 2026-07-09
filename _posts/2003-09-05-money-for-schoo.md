@@ -24,12 +24,12 @@ Major international oil companies are expected to invest $40 billion in joint ve
 <p>Also in the news yesterday were the <a href="http://msnbc.com/news/961386.asp?0sl=-43">results</a> of a new study from the American Society of Civil Engineers, which gives the state of U.S. infrastructure a grade of D-:</p>
 <blockquote>The report blamed the deteriorating infrastructure on a weak economy, limited federal programs, population growth and the threat of terrorism, which diverted money to security.<br />
 <br />
-Â“AmericansÂ’ concerns about security threats are real, but so are the threats posed by crumbling infrastructure,Â” Thomas Jackson, <span class="caps">ASCE</span> president, said in a statement. Â“It doesnÂ’t matter if the dam fails because cracks have never been repaired or if it fails at the hands of a terrorist. The towns below the dam will still be devastated.Â”<br />
+“Americans’ concerns about security threats are real, but so are the threats posed by crumbling infrastructure,” Thomas Jackson, <span class="caps">ASCE</span> president, said in a statement. “It doesn’t matter if the dam fails because cracks have never been repaired or if it fails at the hands of a terrorist. The towns below the dam will still be devastated.”<br />
 <br />
 There was no progress for schools, which received the worst grade &#8211; D-minus &#8211; from the engineers in 2001. The report said three out of four school buildings are inadequate. They estimate it will cost more than $127 billion to build new classrooms and modernize outdated schools.<br />
 <br />
 Energy transmission earned a D-plus two years ago, and the engineers said the trend is getting worse. Investment in transmission fell by $115 million annually, to $2 billion a year in 2000 from $5 billion in 1975. Actual capacity increased by only 7,000 megawatts a year, 30 percent less than needed to keep up with power demand.<br />
 <br />
-Roads didnÂ’t fare much better. Â“The nation is failing to even maintain the substandard conditions we currently have,Â” the report said, adding that the average rush hour grew by more than 18 minutes between 1997 and 2000.         <br />
+Roads didn’t fare much better. “The nation is failing to even maintain the substandard conditions we currently have,” the report said, adding that the average rush hour grew by more than 18 minutes between 1997 and 2000.         <br />
                     <br />
 The engineersÂ’ report also saw no improvement on bridges, noting that 27.5 percent of U.S. bridges were structurally deficient or obsolete in 2000.</blockquote>

@@ -10,7 +10,7 @@ permalink: /2008/09/susan-meiselas-exhib.html
 <p>Joy Garnett, <em>Molotov</em> (detail)</p>
 <p><img src="/assets/2008/09/meiselas_popup4.jpg" width="475" height="318" alt="meiselas_popup4.jpg"/></p>
 <p>Susan Meiselas, <em>Sandinistas at the walls of the Esteli National Guard headquarters, Esteli, Nicaragua</em>, 1979<br />
-Â© Susan Meiselas/Magnum</p>
+© Susan Meiselas/Magnum</p>
 
 <p>The second paragraph of Susan Meiselas&#8217;s bio on her <a href="http://www.susanmeiselas.com/content.php?sec=bc">website</a> states:</p>
 <blockquote>

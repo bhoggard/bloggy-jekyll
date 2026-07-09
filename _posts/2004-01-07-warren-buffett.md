@@ -6,7 +6,7 @@ permalink: /2004/01/warren-buffett.html
 ---
 
 <p>You know it&#8217;s time to get nervous when Warren Buffett starts warning about our trade deficit and <a href="http://www.fortune.com/fortune/investing/articles/0,15114,525644,00.html">says</a></p>
-<blockquote>Through the spring of 2002, I had lived nearly 72 years without purchasing a foreign currency. Since then Berkshire has made significant investments inÂ—and today holdsÂ—several currencies. I won&#8217;t give you particulars; in fact, it is largely irrelevant which currencies they are. What does matter is the underlying point: To hold other currencies is to believe that the dollar will decline.<br />
+<blockquote>Through the spring of 2002, I had lived nearly 72 years without purchasing a foreign currency. Since then Berkshire has made significant investments in—and today holds—several currencies. I won&#8217;t give you particulars; in fact, it is largely irrelevant which currencies they are. What does matter is the underlying point: To hold other currencies is to believe that the dollar will decline.<br />
 <br />
 Both as an American and as an investor, I actually hope these commitments prove to be a mistake. Any profits Berkshire might make from currency trading would pale against the losses the company and our shareholders, in other aspects of their lives, would incur from a plunging dollar.<br />
 <br />

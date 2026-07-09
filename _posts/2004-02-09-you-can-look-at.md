@@ -9,7 +9,7 @@ permalink: /2004/02/you-can-look-at.html
 <p>Mim Udovith <a href="http://www.nytimes.com/2004/02/08/arts/design/08UDOV.html?pagewanted=print&position=">interviews</a> John Waters for the NY Times.</p>
 <blockquote><b><span class="caps">UDOVITCH</span></b> Do you think it&#8217;s harder to be transgressive now than it used to be?<br />
 <br />
-<b><span class="caps">WATERS</span></b> I&#8217;ve never tried to be. Transgressive Â— does that mean you change how people look at things? That would be the greatest flattery anyone could say to me. But I&#8217;m just setting out to do what I always do. First, I do it for myself. And then, maybe when you go to the movies after looking at my pictures, you can make your own movies in your mind. You can watch something and say well, that image could go here. You don&#8217;t have to like the movie. You can look at the lamps.<br />
+<b><span class="caps">WATERS</span></b> I&#8217;ve never tried to be. Transgressive — does that mean you change how people look at things? That would be the greatest flattery anyone could say to me. But I&#8217;m just setting out to do what I always do. First, I do it for myself. And then, maybe when you go to the movies after looking at my pictures, you can make your own movies in your mind. You can watch something and say well, that image could go here. You don&#8217;t have to like the movie. You can look at the lamps.<br />
 <br />
 &#8230;<br />
 <br />

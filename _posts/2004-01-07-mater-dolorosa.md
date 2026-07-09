@@ -8,7 +8,7 @@ permalink: /2004/01/mater-dolorosa.html
 <div align="center">
 <p><img alt="el_greco-mater_dolorosa.jpg" src="/mt/archives/el_greco-mater_dolorosa.jpg" width="300" height="426" border="0" /></p>
 <p><a href="http://www.metmuseum.org/special/El_Greco/3.r.htm">The Virgin Mary (&#8220;Mater Dolorosa&#8221;)</a>, 1590s<br />
-El Greco (Domenikos Theotokopoulos) (Greek, 1541Â–1614)<br />
+El Greco (Domenikos Theotokopoulos) (Greek, 1541–1614)<br />
 Oil on canvas; 20 1/2 &#215; 14 1/8 in. (52 &#215; 36 cm)</p>
 </div>
 <p>We saw this painting at the Metropolitan Museum&#8217;s <a href="http://www.metmuseum.org/special/se_event.asp?OccurrenceId={5BC2299D-FC6B-11D6-94C7-00902786BF44}">El Greco</a> exhibit yesterday.  Among the best works in the show, this was one of the few I had never seen before, even in reproduction.  It&#8217;s haunting and so human, not &#8220;iconic&#8221; even though it was inspired by his early career as a Byzantine icon painter.</p>

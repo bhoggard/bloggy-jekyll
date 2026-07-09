@@ -6,7 +6,7 @@ permalink: /2005/02/jerry-saltz-on.html
 ---
 
 <p>I&#8217;m just getting around to reading some older stuff I had saved.  I was reading Jerry Saltz&#8217;s <a href="http://www1.villagevoice.com/art/0501,saltz,59759,13.html">review</a> of the East Village show at the New Museum, and I have a couple of favorite quotes to share:</p>
-<blockquote>For a time the East Village was the art world&#8217;s duodenumÂ—no matter how it came out, almost everything passed through it.<br />
+<blockquote>For a time the East Village was the art world&#8217;s duodenum—no matter how it came out, almost everything passed through it.<br />
 <br />
 &#8230;<br />
 <br />

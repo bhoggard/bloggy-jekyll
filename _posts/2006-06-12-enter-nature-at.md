@@ -16,7 +16,7 @@ Courtesy James Paterson and bitforms gallery</p>
 <p><em>Uki-Yo</em>, 2004<br />
 Real-time application<br />
 Edition of 5<br />
-Courtesy Galerie Anne Barrault.  Â© qubo gas.<br />
+Courtesy Galerie Anne Barrault.  © qubo gas.<br />
 Production Le Fresnoy, Studio National des Arts Contemporains, 2004<br />
 Code by <a href="http://www.dehats.com/">David Deraedt</a> <br />
 Music by Qubo Gas</p>

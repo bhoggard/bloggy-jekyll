@@ -16,13 +16,13 @@ Thursday, September 27, 2007, benefiting Printed Matter, Inc.<br />
 6 &#8211; 7 pm, early admission to preview<br />
 7 &#8211; 9 pm, general admission to preview</p>
 <p><span class="caps">BENEFIT</span> <span class="caps">PREVIEW</span> <span class="caps">TICKETS</span><br />
-Â· Price on Request (early admission to preview plus<br />
+· Price on Request (early admission to preview plus<br />
 Ed Ruscha edition Little Mexican Church on a Windowsill &amp; David Shrigley ticket edition)<br />
-Â· $150 (general admission to preview plus<br />
+· $150 (general admission to preview plus<br />
 Josephine Meckseper edition Untitled (%) Shelf [Detail] &amp; David Shrigley ticket edition)<br />
-Â· $150 (general admission to preview plus<br />
+· $150 (general admission to preview plus<br />
 Josephine Meckseper edition Untitled (March&#8230;) &amp; David Shrigley ticket edition)<br />
-Â· $20 (general admission plus David Shrigley ticket edition Fucking Ace)</p>
+· $20 (general admission plus David Shrigley ticket edition Fucking Ace)</p>
 <p>&#8212;</p>
 <p><a href="http://www.poolartfair.com/pool_ny_07/pool_ny_2007.html">Pool Art Fair</a> at the Hotel Chelsea, Friday and Saturday 12-8PM, with a benefit preview Thursday 6PM-?</p>
 <p>&#8212;</p>

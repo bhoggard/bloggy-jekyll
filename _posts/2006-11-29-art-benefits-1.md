@@ -20,17 +20,17 @@ Sneak peek only &#8212; NO <span class="caps">POSTCARD</span> <span class="caps"
 Over 1000 original postcard-size works of art! <span class="caps">ONLY</span> $75 <span class="caps">EACH</span>. Buy four cards and get one free. First come, first served. <span class="caps">CASH</span> and <span class="caps">CHECK</span> <span class="caps">ONLY</span> &#8212; sorry no credit cards.  $5 Suggested Admission.</p>
 <p><strong>Sunday, December 3 from 12-4 PM:</strong></p>
 <p>Benefit Sale (Last chance)<br />
-Less crowds, but still plenty of great art! Still only $75 <span class="caps">EACH</span> Â– same as above.</p>
+Less crowds, but still plenty of great art! Still only $75 <span class="caps">EACH</span> – same as above.</p>
 <p>Hosted by:<br />
 Sikkema, Jenkins &amp; Co.<br />
 530 West 22nd Street, <span class="caps">NYC</span></p>
 <hr />
 <p><a href="http://www.dumboartscenter.org/auction/">d.u.m.b.o. arts center (dac) Winter Auction 2006</a></p>
-<p>Preview reception: Monday, November 27, 6 Â– 9 pm<br />
+<p>Preview reception: Monday, November 27, 6 – 9 pm<br />
 Preview and silent bidding: November 27 &#8211; December 2, 10 am &#8211; 6 pm</p>
 <p>Live Auction: Saturday, December 2 at 8 pm<br />
 Auctioneer: Christopher Gaillard of Sotheby&#8217;s<br />
-Pre-auction reception: 6 Â– 8 pm<br />
+Pre-auction reception: 6 – 8 pm<br />
 Silent Auction closes after Live Auction</p>
 <p>Location:<br />
 d.u.m.b.o. arts center (dac) Gallery<br />

@@ -19,7 +19,7 @@ L train to Bedford Avenue<br />
 <br />
 On the second Friday of each month, from 8PM to 11PM, the artist collective <span class="caps">MTAA</span> convert their N. 6th St. Brooklyn studio into a venue for the presentation of time-based art.<br />
 <br />
-The <span class="caps">OTO</span> project begins on October 12 with Â“Again Transporter,Â” new works by Michael Sarff.  Michael Sarff, under the pseudonym Mark River, is half of the ongoing artist collaboration <span class="caps">MTAA</span>.<br />
+The <span class="caps">OTO</span> project begins on October 12 with “Again Transporter,” new works by Michael Sarff.  Michael Sarff, under the pseudonym Mark River, is half of the ongoing artist collaboration <span class="caps">MTAA</span>.<br />
 <br />
 Upcoming shows at Over The Opening<br />
 <br />
