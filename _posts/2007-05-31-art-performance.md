@@ -14,7 +14,7 @@ permalink: /2007/05/art-performance.html
 <p>Friends Felicia Ballos and <a href="http://jameswagner.com/mt_archives/003988.html">Michael Mahalchick</a> are among the performers in the <a href="http://www.myspace.com/mrfestival">Movement Research Festival</a> presentation of  Populous by <span class="caps">AUNTS</span> at Judson Church at Washington Square:</p>
 <blockquote>
 <p>Friday June 1, 7:30pm &amp; 9pm, $8 suggested – Judson Memorial Church Gym<br />
-Like varieties of a species in a zoo, Populous is the controlled manage- ment of nine separate but simultaneous performances. The edges of the space are parceled off for each performance, delineated by markings on the floor, with a space in the center of the room for the audience. Each performance is allowed unlimited construction of movement, sound, light, and energy within its parcel. Visit: myspace.com/aunts. Ana Keilson. Liz Santoro. Juan Adley. Felicia Ballos. Jacqueline Fritz. Christine Elmo a.k.a. AndyÂ’s MoM. Jennifer Rosenblit. Michael Mahalchick. Ede Thurrell.</p>
+Like varieties of a species in a zoo, Populous is the controlled manage- ment of nine separate but simultaneous performances. The edges of the space are parceled off for each performance, delineated by markings on the floor, with a space in the center of the room for the audience. Each performance is allowed unlimited construction of movement, sound, light, and energy within its parcel. Visit: myspace.com/aunts. Ana Keilson. Liz Santoro. Juan Adley. Felicia Ballos. Jacqueline Fritz. Christine Elmo a.k.a. Andy’s MoM. Jennifer Rosenblit. Michael Mahalchick. Ede Thurrell.</p>
 </blockquote>
 <p>&nbsp;</p>
 <p><strong>June 2</strong></p>

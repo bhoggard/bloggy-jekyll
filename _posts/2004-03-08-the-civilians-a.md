@@ -20,7 +20,7 @@ Grand  Harmony Restaurant<br />
 Featuring<br />
 Performances of never-before-seen texts by Civilians  Advisors John Guare and Charles L. Mee, Jr.<br />
 <br />
-New renditions of Civilians songs including selections from our upcoming show NobodyÂ’s  Lunch.<br />
+New renditions of Civilians songs including selections from our upcoming show Nobody’s  Lunch.<br />
 <br />
 Tony-Winner Karen Ziemba (Never Gonna Dance,  Contact)<br />
 Bayne Gibby (HBO&#8217;s Out on the Edge)<br />

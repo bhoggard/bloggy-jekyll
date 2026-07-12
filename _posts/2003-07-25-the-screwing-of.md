@@ -25,7 +25,7 @@ That’s right. The “quote” from McKinney is a complete fabrication. A whopp
 <br />
 The McKinney “quote” was, indeed, all over the place: in the Washington Post, National Public Radio, and needless to say, all the other metropolitan dailies – everywhere but in Congresswoman McKinney’s mouth.<br />
 <br />
-Nor was it in the Congressional Record, nor in any recorded talk, nor on her Website, nor in any of her radio talks. HereÂ’s the CongresswomanÂ’s statement from the record:<br />
+Nor was it in the Congressional Record, nor in any recorded talk, nor on her Website, nor in any of her radio talks. Here’s the Congresswoman’s statement from the record:<br />
 <br />
 “George Bush had no prior knowledge of the plan to attack the World Trade Center on September 11.”<br />
 <br />
@@ -37,7 +37,7 @@ She was beaten in the August 2002 Democratic primary. More precisely, she was be
 <br />
 &#8230;<br />
 <br />
-Months before the 2000 presidential elections, the offices of Florida Governor Jeb Bush and Secretary of State Katherine Harris ordered the removal of 90,000 citizens from the voter rolls because they were convicted felons . . . and felons canÂ’t vote in Florida. There was one problem: 97 percent of those on the list were, in fact, innocent.<br />
+Months before the 2000 presidential elections, the offices of Florida Governor Jeb Bush and Secretary of State Katherine Harris ordered the removal of 90,000 citizens from the voter rolls because they were convicted felons . . . and felons can’t vote in Florida. There was one problem: 97 percent of those on the list were, in fact, innocent.<br />
 <br />
 They weren’t felons, but they were guilty . . . of not being white. Over half the list contained names of non-whites. I’m not guessing: I have the list from out of the computers of Katherine Harris’ office – and the “scrubbed” voter’s race is listed with each name. <br />
 <br />
@@ -51,15 +51,15 @@ The company that came up with the faux felon list that determined the presidency
 <br />
 &#8230;<br />
 <br />
-After George Bush Senior left the White House, he became an advisor and lobbyist for a Canadian gold-mining company, Barrick Gold. Hey, a guyÂ’s got to work. But there were a couple of questions about Barrick, to say the least. For example, was BarrickÂ’s Congo gold mine funding both sides of a civil war and perpetuating that bloody conflict? Only one Congressperson demanded hearings on the matter.<br />
+After George Bush Senior left the White House, he became an advisor and lobbyist for a Canadian gold-mining company, Barrick Gold. Hey, a guy’s got to work. But there were a couple of questions about Barrick, to say the least. For example, was Barrick’s Congo gold mine funding both sides of a civil war and perpetuating that bloody conflict? Only one Congressperson demanded hearings on the matter.<br />
 <br />
-YouÂ’ve guessed: Cynthia McKinney.<br />
+You’ve guessed: Cynthia McKinney.<br />
 <br />
-That was covered in the . . . well, it wasnÂ’t covered at all in the U.S. press.<br />
+That was covered in the . . . well, it wasn’t covered at all in the U.S. press.<br />
 <br />
-McKinney contacted me at the <span class="caps">BBC</span>. She asked if IÂ’d heard of Barrick. Indeed, I had. Top human rights investigators had evidence that a mine that Barrick bought in 1999 had, in clearing their Tanzanian properties three years earlier, bulldozed mine shafts . . . burying about 50 miners alive.<br />
+McKinney contacted me at the <span class="caps">BBC</span>. She asked if I’d heard of Barrick. Indeed, I had. Top human rights investigators had evidence that a mine that Barrick bought in 1999 had, in clearing their Tanzanian properties three years earlier, bulldozed mine shafts . . . burying about 50 miners alive.<br />
 <br />
-I certainly knew Barrick: TheyÂ’d sued the Guardian for daring to run a story IÂ’d written about the allegations of the killings. Barrick never sued an American paper for daring to run the story, because no American paper dared.<br />
+I certainly knew Barrick: They’d sued the Guardian for daring to run a story I’d written about the allegations of the killings. Barrick never sued an American paper for daring to run the story, because no American paper dared.<br />
 <br />
 The primary source for my story, an internationally famous lawyer named Tundu Lissu, was charged by the Tanzanian police with sedition, and arrested, for calling for an investigation. McKinney has been trying to save his life with an international campaign aimed at Barrick.<br />
 <br />

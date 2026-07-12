@@ -13,7 +13,7 @@ permalink: /2007/05/gods-ear-by-jen-1.html
 <p><a href="http://www.brooklynrail.org/2007/5/theater/the-fat-lady-will-sing-with-bells-on">The Brooklyn Rail</a> has an article on the play written by the actress and playwright Heidi Schreck (who we saw with Gibson Frazier in Anne Washburn&#8217;s <em>The Internationalist</em>).  It includes some excerpts:</p>
 <blockquote>
 <p><span class="caps">MEL</span><br />
-And then weÂ’ll kick up our heels. And have it both ways. And take a deep breath. And take it like men.</p>
+And then we’ll kick up our heels. And have it both ways. And take a deep breath. And take it like men.</p>
 <p>And sit back. Relax.</p>
 <p>And ride off into the horse-shit.</p>
 <p>For richer, for poorer. In sickness and in health. And the fat lady will sing. With bells on.</p>

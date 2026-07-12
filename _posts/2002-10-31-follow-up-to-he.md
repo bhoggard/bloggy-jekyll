@@ -16,9 +16,9 @@ Even though there is no credible evidence linking the Iraqi president to the 9-1
 <br />
 &#8230;<br />
 <br />
-Compared with taking the country to war based on a body of lies, BushÂ’s duplicity on domestic issues doesnÂ’t seem as egregious, but the pattern is disturbing.<br />
+Compared with taking the country to war based on a body of lies, Bush’s duplicity on domestic issues doesn’t seem as egregious, but the pattern is disturbing.<br />
 <br />
 &#8230;<br />
 <br />
-There is hardly an issue where Bush hasnÂ’t pulled a fast one. The rules he announced with great fanfare this week to make it easier to move generic drugs onto the market were passed by the Senate in July. Bush opposed them then; now with polls showing voters think he hasnÂ’t done enough on domestic issues, heÂ’s flipped.<br />
-       How does he get away with such crass duplicity? The media doesnÂ’t want to disturb the story line. Gore was the prevaricator; Bush was intellectually challenged. So when Bush fiddles with the facts, the media doesnÂ’t see malevolence. They see a man whoÂ’s not articulate, who doesnÂ’t speak with lawyerly precision. And they canÂ’t believe how believable he is. </blockquote>
+There is hardly an issue where Bush hasn’t pulled a fast one. The rules he announced with great fanfare this week to make it easier to move generic drugs onto the market were passed by the Senate in July. Bush opposed them then; now with polls showing voters think he hasn’t done enough on domestic issues, he’s flipped.<br />
+       How does he get away with such crass duplicity? The media doesn’t want to disturb the story line. Gore was the prevaricator; Bush was intellectually challenged. So when Bush fiddles with the facts, the media doesn’t see malevolence. They see a man who’s not articulate, who doesn’t speak with lawyerly precision. And they can’t believe how believable he is. </blockquote>

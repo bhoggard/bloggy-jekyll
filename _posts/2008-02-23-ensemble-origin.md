@@ -9,7 +9,7 @@ permalink: /2008/02/ensemble-origin.html
 <blockquote>
 <p><a href="http://www.ensembleorigin.com/">Ensemble Origin</a> at Zankel Hall<br />
 March 14th and 15th, 7:30pm</p>
-<p>Featuring the Shinnyo-En Chorus of Japan and Music by the Seminal Japanese Avant-Garde Composer <a href="http://en.wikipedia.org/wiki/Toshi_Ichiyanagi">Toshi Ichiyanagi</a>, Ensemble OriginÂ’s Founder and Artistic Director</p>
+<p>Featuring the Shinnyo-En Chorus of Japan and Music by the Seminal Japanese Avant-Garde Composer <a href="http://en.wikipedia.org/wiki/Toshi_Ichiyanagi">Toshi Ichiyanagi</a>, Ensemble Origin’s Founder and Artistic Director</p>
 <p>Presented with support of The Japan Foundation<br />
 and the cooperation of the Consulate General of Japan in New York<br />
 and the Institute for Medieval Japanese Studies at Columbia University.</p>

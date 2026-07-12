@@ -32,4 +32,4 @@ Energy transmission earned a D-plus two years ago, and the engineers said the tr
 <br />
 Roads didn’t fare much better. “The nation is failing to even maintain the substandard conditions we currently have,” the report said, adding that the average rush hour grew by more than 18 minutes between 1997 and 2000.         <br />
                     <br />
-The engineersÂ’ report also saw no improvement on bridges, noting that 27.5 percent of U.S. bridges were structurally deficient or obsolete in 2000.</blockquote>
+The engineers’ report also saw no improvement on bridges, noting that 27.5 percent of U.S. bridges were structurally deficient or obsolete in 2000.</blockquote>

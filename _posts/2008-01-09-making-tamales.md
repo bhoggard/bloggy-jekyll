@@ -13,7 +13,7 @@ permalink: /2008/01/making-tamales.html
 Open public feeding 8:30 until the tamales run out</p>
 <p>Enrollment is limited for the cooking lesson. Please contact mriver@mteww.com to reserve your place (materials fee: $5).</p>
 <p>Elaine Tin Nyo is a conceptual artist with a computer and kitchen in Harlem, New York and a locker in Chelsea filled with dance shoes.</p>
-<p>ElaineÂ’s works explore the structures of sensual experience and social interaction. Her primary subjects have been social structures such as dinners, classrooms and ballroom dance. Her photographs, recipes, videos, installations and performances have been presented by BlindSpot, Deitch Projects, Thread Waxing Space, The New Museum, Creative Time, Bronx Museum, Fargfabriken, Neueberger Museum, Leslie Tonkonow Projects, Chez Bushwick, and French Culinary Institute.</p>
+<p>Elaine’s works explore the structures of sensual experience and social interaction. Her primary subjects have been social structures such as dinners, classrooms and ballroom dance. Her photographs, recipes, videos, installations and performances have been presented by BlindSpot, Deitch Projects, Thread Waxing Space, The New Museum, Creative Time, Bronx Museum, Fargfabriken, Neueberger Museum, Leslie Tonkonow Projects, Chez Bushwick, and French Culinary Institute.</p>
 <p><span class="caps">OTO</span> is located at 60 North 6th Street (2nd floor) Brooklyn, NY, 11211<br />
 L train to Bedford Avenue<br />
 3 Blocks west on North 6th &#8211; just shy of Kent</p>

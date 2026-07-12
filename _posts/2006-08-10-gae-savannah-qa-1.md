@@ -14,5 +14,5 @@ plastic claw clips, styrofoam, fabric<br />
 <p>Apparently I&#8217;m not the only one who <a href="/2006/06/doesnt-this-rea-1.html">doesn&#8217;t care for John Currin</a>.  In this hiliarious <a href="http://www.animalnewyork.com/2006/08/gae_savannah_orientalist.php">Q&amp;A</a> with our friend <a href="http://www.gaesavannah.blogspot.com/">Gae Savannah</a>, she says:</p>
 <blockquote>
 <p><strong>What single work of art would you most like to destroy?</strong><br />
-John Currin, but I wouldnÂ’t make the effort.</p>
+John Currin, but I wouldn’t make the effort.</p>
 </blockquote>

@@ -14,24 +14,24 @@ permalink: /2006/04/going-to-hell-a-1.html
 <p>Here is an excerpt from the libretto (available on the Hell web site):<br />
 <blockquote></p>
 <p><em>Poet:</em></p>
-<p>No, IÂ’m serious. ThereÂ’s a group of trees coming right towards us.</p>
+<p>No, I’m serious. There’s a group of trees coming right towards us.</p>
 <p><em>Man:</em></p>
-<p>And IÂ’m telling you donÂ’t even think about it.</p>
-<p>ItÂ’s Father Tree.</p>
+<p>And I’m telling you don’t even think about it.</p>
+<p>It’s Father Tree.</p>
 <p>People love him.</p>
-<p>HeÂ’s our leader.</p>
-<p>And he doesnÂ’t do a thing</p>
-<p>HeÂ’s the President of the World.</p>
+<p>He’s our leader.</p>
+<p>And he doesn’t do a thing</p>
+<p>He’s the President of the World.</p>
 <p><em>Poet:</em></p>
-<p>Well, shouldnÂ’t we greet him, or something?</p>
+<p>Well, shouldn’t we greet him, or something?</p>
 <p>Maybe he wants to meet me?</p>
 <p><em>Man:</em></p>
-<p>No, thatÂ’s whatÂ’s so great about him. He doesnÂ’t care.</p>
+<p>No, that’s what’s so great about him. He doesn’t care.</p>
 <p>He has absolutely no curiosity.</p>
-<p>HeÂ’s famous for that.</blockquote></p>
+<p>He’s famous for that.</blockquote></p>
 <p>I also love the description of &#8220;the opposition,&#8221; the Gnome:</p>
 <blockquote>
-<p>If the Gnome mattered at all heÂ’d be Father TreeÂ’s enemy.</p>
+<p>If the Gnome mattered at all he’d be Father Tree’s enemy.</p>
 </blockquote>
 <p>If you need more incentive in addition to the word of Eileen Myles, great music and singing, and brilliant use of video by Peter Flaherty, there is also an &#8220;opera hunk&#8221; of whom I have <a href="/2002/11/martinu-and-an.html">spoken before</a>, David Adam Moore.  He looks like this and he can sing and act.</p>
 <p><img alt="hell-lewis-david-adam-moore.jpg" src="/mt/archives/hell-lewis-david-adam-moore.jpg" width="400" height="533" /></p>

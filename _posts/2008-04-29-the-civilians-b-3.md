@@ -16,7 +16,7 @@ Monday,May 12, 8 PM to 1 AM, Performance at 9 PM<br />
 Element Nightclub, 225 East Houston Street<br />
 @ Essex Street / Avenue A, New York, NY 10002<br />
 <br />
- Enjoy drinks and dancing in this trendy Lower East Side club, surrounded byThe CiviliansÂ’ artists, friends, and supporters. This Benefit event will include complimentary sponsored drinks, full cash bar, light hors dÂ’oeuvres, and an exciting silent auction.<br />
+ Enjoy drinks and dancing in this trendy Lower East Side club, surrounded byThe Civilians’ artists, friends, and supporters. This Benefit event will include complimentary sponsored drinks, full cash bar, light hors d’oeuvres, and an exciting silent auction.<br />
 <br />
 In honor of our production of Paris Commune at the Public Theater, the company will perform a special sequel to the revolution. Following the Communards (in song) from life in the streets of Paris to exile on the French Polynesian island of New Caledonia, this one-time only event is guaranteed to prove that the fight (and the show) must go on.<br />
 <br />

@@ -10,7 +10,7 @@ permalink: /2004/02/attachment-is-a.html
 <p>From the interview:</p>
 <blockquote>Rail: The idiosyncratic punctuation that you use for the character lines seems to offer an alternative to the more clichéd aspects of psychology in theater. Instead of rendering articulations of &#8220;emotion,&#8221; your characters seem to follow a musical score; one that expresses more ephemeral aspects of inner thought through pattern and rhythm. How did you begin to use these stylistic conventions?<br />
 <br />
-Gibson: I was just finding, more and more, that proper sentences and punctuation werenÂ’t adequately expressing what was in my head, in terms of dialogue. Punctuation has its place, of course, but it can lessen the degree to which subtlety and contradiction and ambivalence reside in verbal communication. And since a play is a blueprint for an oral form, it just makes more sense to me, for my work, to keep the language open to the switching of tracks it must constantly accommodate. IÂ’ve come to rely on carefully chosen capitalization, line breaks and what I half-jokingly call &#8220;actor intention tips,&#8221; which basically alert the actor to the fact that the intention behind the line may be at odds with what actually is said. In terms of the rhythms of the words, I do sort of think of the line breaks as thought breaks. For me, these are just another signal to the actor about the patterns inside a characterÂ’s head. Obviously, IÂ’m borrowing some of the tools of poetry and music, though I am, much to my sadness, neither a poet nor a musician. So maybe itÂ’s like IÂ’m operating a power saw without wearing safety goggles.<br />
+Gibson: I was just finding, more and more, that proper sentences and punctuation weren’t adequately expressing what was in my head, in terms of dialogue. Punctuation has its place, of course, but it can lessen the degree to which subtlety and contradiction and ambivalence reside in verbal communication. And since a play is a blueprint for an oral form, it just makes more sense to me, for my work, to keep the language open to the switching of tracks it must constantly accommodate. I’ve come to rely on carefully chosen capitalization, line breaks and what I half-jokingly call &#8220;actor intention tips,&#8221; which basically alert the actor to the fact that the intention behind the line may be at odds with what actually is said. In terms of the rhythms of the words, I do sort of think of the line breaks as thought breaks. For me, these are just another signal to the actor about the patterns inside a character’s head. Obviously, I’m borrowing some of the tools of poetry and music, though I am, much to my sadness, neither a poet nor a musician. So maybe it’s like I’m operating a power saw without wearing safety goggles.<br />
 <br />
 Rail: There is also a strong thread of narrative fragmentation running through your pieces. Your characters are often collecting found objects, listening to voices in the stairwell, seeing snippets of home video through windows. The stories are never really beginning or ending.<br />
 <br />
@@ -22,25 +22,25 @@ Gibson: Well, lives don’t behave. We are porous and susceptible beings and eve
 Is it<br />
 Bleaker or more bleak I can<br />
 never remember that rule Bleaker<br />
-doesnÂ’t even sound like a word<br />
+doesn’t even sound like a word<br />
 when you say it in<br />
 isolation Try saying it Bleaker Bleaker Bleaker<br />
-Ew thereÂ’s a guy outside clipping his<br />
+Ew there’s a guy outside clipping his<br />
 toenails into the sewer Jen<br />
 are you there<br />
 <br />
 <span class="caps">JEN</span><br />
-IÂ’m here I thought<br />
+I’m here I thought<br />
 you might be my advisor<br />
 <br />
 <span class="caps">SALLIE</span><br />
 Did you hear from your advisor<br />
 <br />
 <span class="caps">JEN</span><br />
-SheÂ’s trying to<br />
+She’s trying to<br />
 Reach Me<br />
 <br />
-(SallieÂ’s gaze has landed on an apartment in the building across the way, where the film is showing again. Sallie picks up a pair of binoculars and looks through them as she continues to converse. We see what she sees, a section of home movies from circa 1940:<br />
+(Sallie’s gaze has landed on an apartment in the building across the way, where the film is showing again. Sallie picks up a pair of binoculars and looks through them as she continues to converse. We see what she sees, a section of home movies from circa 1940:<br />
 <br />
 A little girl, her father and her mother are sledding. The father wears a suit and overcoat, while the mother wears heels and a fur. They all take a turn on the sled.)<br />
 <br />
@@ -48,7 +48,7 @@ A little girl, her father and her mother are sledding. The father wears a suit a
 How do you know<br />
 <br />
 <span class="caps">JEN</span><br />
-SheÂ’s left<br />
+She’s left<br />
 Messages<br />
 <br />
 <span class="caps">SALLIE</span><br />
@@ -90,13 +90,13 @@ It was a letter Sallie<br />
 <span class="caps">SALLIE</span><br />
 (focused on the film)<br />
 Oh right<br />
-IsnÂ’t it beautiful Jen I mean is<br />
+Isn’t it beautiful Jen I mean is<br />
 there anything more beautiful Jen than<br />
 people who dress in blatant disregard of their<br />
 circumstances<br />
 <br />
 <span class="caps">JEN</span><br />
-Oh I donÂ’t know blatancy is problematic if you ask me Blatancy makes me<br />
+Oh I don’t know blatancy is problematic if you ask me Blatancy makes me<br />
 nervous She<br />
 said she was going through a messy divorce<br />
 <br />
@@ -107,10 +107,10 @@ Who<br />
 My advisor In her letter<br />
 <br />
 <span class="caps">SALLIE</span><br />
-ThatÂ’s too bad<br />
+That’s too bad<br />
 <br />
 <span class="caps">JEN</span><br />
-So sheÂ’s trying to straighten out her affairs so<br />
+So she’s trying to straighten out her affairs so<br />
 to speak<br />
 <br />
 <span class="caps">SALLIE</span><br />
@@ -123,5 +123,5 @@ nasty business<br />
 <br />
 (<span class="caps">SLIGHT</span> <span class="caps">PAUSE</span>.)<br />
 <br />
-ThatÂ’s a quote from her letter Attachment<br />
+That’s a quote from her letter Attachment<br />
 Is A Nasty Business</blockquote>

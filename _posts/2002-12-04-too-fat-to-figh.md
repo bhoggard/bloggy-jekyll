@@ -14,6 +14,6 @@ A fifth of those aged under 20 would also fail the fat test, The Times has learn
 <br />
 &#8230;<br />
 <br />
-A successful method used to recruit teenagers is to allow fast-food chains such as McDonaldÂ’s and Kentucky Fried Chicken to operate restaurants on bases. Mess food is no longer obligatory. </blockquote>
+A successful method used to recruit teenagers is to allow fast-food chains such as McDonald’s and Kentucky Fried Chicken to operate restaurants on bases. Mess food is no longer obligatory. </blockquote>
 <p>[Via <a href="http://tbogg.blogspot.com/"><span class="caps">TBOGG</span></a>]</p>
 <p>Maybe <a href="http://www4.aixgaming.com/opend/Special_Forces-Afghanistan?&page=2">these guys</a> can provide some fitness tips.</p>

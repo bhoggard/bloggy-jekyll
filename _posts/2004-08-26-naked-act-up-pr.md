@@ -11,7 +11,7 @@ permalink: /2004/08/naked-act-up-pr.html
 <p>The police waited 15 minutes before arresting them.  Interesting.</p>
 <blockquote> A dozen <span class="caps">AIDS</span> activists were arrested outside Madison Square Garden Thursday afternoon after they stripped off their clothes and blocked traffic.<br />
 <br />
-The men and women, members of <a href="http://www.actupny.org/"><span class="caps">ACT</span> UP</a> (<span class="caps">AIDS</span> Coalition to Unleash Power) said they staged the demonstration in front of the site of next weekÂ’s Republican National Convention in order to protest the Bush administrationÂ’s policies on <span class="caps">AIDS</span>.<br />
+The men and women, members of <a href="http://www.actupny.org/"><span class="caps">ACT</span> UP</a> (<span class="caps">AIDS</span> Coalition to Unleash Power) said they staged the demonstration in front of the site of next week’s Republican National Convention in order to protest the Bush administration’s policies on <span class="caps">AIDS</span>.<br />
 <br />
 “This protest is to tell the naked truth to President Bush and the Republican Party,” said <span class="caps">ACT</span> UP member Robert Dabney, who kept his clothes on to talk to reporters. “Our protestors are demanding number one that the president support full debt cancellation for the poorest nations in the world.”<br />
 <br />

@@ -20,7 +20,7 @@ Published: March 23, 2008</p>
 <p><strong>Drama, Yes. Violence, No.</strong></p>
 </blockquote>
 <blockquote>
-<p>Despite his attitude toward violent protest, Mr. Kelly has not shied away from dramatic tactics. He has been arrested twice, once two years ago during a protest on PaceÂ’s Manhattan campus, and once a year ago when he and about 20 other S.D.S. members were detained for occupying an Army-Navy recruiting center in Lower Manhattan. Neither arrest led to any charges.</p>
+<p>Despite his attitude toward violent protest, Mr. Kelly has not shied away from dramatic tactics. He has been arrested twice, once two years ago during a protest on Pace’s Manhattan campus, and once a year ago when he and about 20 other S.D.S. members were detained for occupying an Army-Navy recruiting center in Lower Manhattan. Neither arrest led to any charges.</p>
 </blockquote>
 <blockquote>
 <p>&#8230;</p>

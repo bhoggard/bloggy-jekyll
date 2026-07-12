@@ -13,7 +13,7 @@ permalink: /2006/07/metropolitan-op-1.html
 <p>The space will display original works of art with opera themes. Six artists, including Cecily Brown and Barnaby Furnas, have already produced works for the first exhibition.</p>
 </blockquote>
 <p>The Met&#8217;s press release is <a href="http://www.metoperafamily.org/metopera/news/detail.aspx?id=202">here</a>.</p>
-<p>It says that the works in the inaugural exhibiton are &#8220;inspired by the heroines of the seasonÂ’s six new productions.&#8221;  They are:</p>
+<p>It says that the works in the inaugural exhibiton are &#8220;inspired by the heroines of the season’s six new productions.&#8221;  They are:</p>
 <ul>
 	<li>Cecily Brown (Suor Angelica in Il Trittico)</li>
 	<li>John Currin (Helena in Die Ägyptische Helena)</li>

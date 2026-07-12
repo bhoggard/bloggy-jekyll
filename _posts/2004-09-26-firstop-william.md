@@ -11,7 +11,7 @@ permalink: /2004/09/firstop-william.html
 12 to 8 PM</p>
 </blockquote>
 <blockquote>
-<p>The third annual open-studios and exhibitions event reveals whatÂ’s happening in design in this thriving Brooklyn neighborhood. Featuring the latest in fashion, architecture, graphics, interior, furniture and industrial design, the event reflects the current state of Williamsburg: its lifestyle, industrial past and new creative talent.</p>
+<p>The third annual open-studios and exhibitions event reveals what’s happening in design in this thriving Brooklyn neighborhood. Featuring the latest in fashion, architecture, graphics, interior, furniture and industrial design, the event reflects the current state of Williamsburg: its lifestyle, industrial past and new creative talent.</p>
 </blockquote>
 <blockquote>
 <p>Maps listing participants and locations will be available during the days of the event at the Bedford Ave L stop or come back to  our website for full listing, detailed event information and directions.</p>

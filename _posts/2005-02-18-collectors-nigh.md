@@ -12,14 +12,14 @@ permalink: /2005/02/collectors-nigh.html
 <br />
 An evening For, By, and About <span class="caps">COLLECTING</span>, <span class="caps">COLLECTORS</span>, and <span class="caps">COLLECTIONS</span><br />
 <br />
-Featuring the StoryCorps Project by David IsayÂ’s Sound Portrait Productions<br />
+Featuring the StoryCorps Project by David Isay’s Sound Portrait Productions<br />
 <br />
-The World Premier of The Poo SyndicateÂ’s film <em>The Flea Market Project</em><br />
+The World Premier of The Poo Syndicate’s film <em>The Flea Market Project</em><br />
 <br />
 Collecting experts, Richard Roth, and Leah Dilworth,<br />
 <br />
 And displayed collections of all kinds. <br />
 <br />
 <br />
-On Wednesday night, the City Reliquary is honored to present <em>CollectorsÂ’ Night,</em> a celebration of unique, fanciful and eccentric collections, presented by the people who collect them. The program will feature audio from the Sound Portraits&#8217; StoryCorps project, films about collecting and that serve ascollections, and a panel discussion moderated by Long Island University English Department Chair Leah Dilworth and Q&amp;A on collecting and collectors. <em>Collectors&#8217; Night</em> will also feature the personal collections of postcards, vintage bicycles, bottle caps, baseball cards, geological artifacts and anything else deemed collectable by those in attendance. </blockquote>
+On Wednesday night, the City Reliquary is honored to present <em>Collectors’ Night,</em> a celebration of unique, fanciful and eccentric collections, presented by the people who collect them. The program will feature audio from the Sound Portraits&#8217; StoryCorps project, films about collecting and that serve ascollections, and a panel discussion moderated by Long Island University English Department Chair Leah Dilworth and Q&amp;A on collecting and collectors. <em>Collectors&#8217; Night</em> will also feature the personal collections of postcards, vintage bicycles, bottle caps, baseball cards, geological artifacts and anything else deemed collectable by those in attendance. </blockquote>
 <p>[photo from the City Reliquary web site]</p>

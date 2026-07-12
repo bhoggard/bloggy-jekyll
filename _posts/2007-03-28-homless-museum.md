@@ -18,7 +18,7 @@ In fact, the more successful a museum grows, the more elitist it tends to become
 <br />
 An extreme spin on museum populism came into vogue not too long ago, with exhibitions of “nonart” materials: motorcycles at the Guggenheim, hip-hop ephemera at the Brooklyn Museum of Art. Critics surprised themselves by raving over the Guggenheim show. Custom-made bikes, it turned out, are High Design. On the other hand, the hip-hop material, most of it mass-produced, inexpensive and readily available, was dismissed as mere merchandise. What was it doing in an art museum?<br />
 <br />
-It was illustrating, among other things, Andy WarholÂ’s canny prediction that all museums will become department stores, and vice versa. Sure enough, here we are and we have to ask the question: WhatÂ’s the difference between a top-of-the-line Harley, a Tupac poster and a Marden abstraction? Fundamentally, none. They are all brand-name items distinguished by different price tags. Populist or not, they are products of corporate marketing, of the money holders.<br />
+It was illustrating, among other things, Andy Warhol’s canny prediction that all museums will become department stores, and vice versa. Sure enough, here we are and we have to ask the question: What’s the difference between a top-of-the-line Harley, a Tupac poster and a Marden abstraction? Fundamentally, none. They are all brand-name items distinguished by different price tags. Populist or not, they are products of corporate marketing, of the money holders.<br />
 <br />
 &#8230;<br />
 <br />

@@ -6,5 +6,5 @@ permalink: /2008/05/robert-rauschen.html
 ---
 
 <blockquote>
-<p>Because life doesnÂ’t have any other possibility, everyone can be measured by his adaptability to change.</p>
+<p>Because life doesn’t have any other possibility, everyone can be measured by his adaptability to change.</p>
 </blockquote>

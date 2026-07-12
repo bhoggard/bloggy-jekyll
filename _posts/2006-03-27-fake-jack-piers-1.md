@@ -10,11 +10,11 @@ permalink: /2006/03/fake-jack-piers-1.html
 <br />
 The artist Jack Pierson has been making what he calls &#8220;word sculptures&#8221; for over 15 years now. The works are composed of found and retrieved signage from locations as diverse as Las Vegas casinos to defunct 42nd Street movies palaces. In a catalogue representing the collection of the Whitney Museum, they are described as &#8220;ready-made objects to express the pathos underlying the American Dream &#8212; a pathos embodied in the mismatched letters of old movie marquees and commercial signs from which his work is created&#8230;  His found letters are, in a sense, discarded dreams, their original purpose long forgotten.&#8221;<br />
 <br />
-These works have been documented in numerous books chronicling contemporary art and are in the collections of the Whitney Museum, The Musée dÂ’Art Contemporain in France, The Walker Art Center in Minneapolis, The Baltimore Museum of Art, and the Museum of Contemporary Art in Los Angeles. They have also been published in box sets of postcards available at many museum bookshops.<br />
+These works have been documented in numerous books chronicling contemporary art and are in the collections of the Whitney Museum, The Musée d’Art Contemporain in France, The Walker Art Center in Minneapolis, The Baltimore Museum of Art, and the Museum of Contemporary Art in Los Angeles. They have also been published in box sets of postcards available at many museum bookshops.<br />
 <br />
-Around a year or so ago, imitations or forgeries of these works began to appear in BarneyÂ’s clothing stores throughout the country saying such things as &#8220;fabulous, courageous, and outrageous.&#8221;  They are formally weak plagiarized versions of Jack PiersonÂ’s work and we want you to know that they are not by Jack Pierson. Many people have assumed they are. They are, in fact, made by Simon Doonan, the chief window dresser at BarneyÂ’s. Jack Pierson has asked that he remove them but he has refused.<br />
+Around a year or so ago, imitations or forgeries of these works began to appear in Barney’s clothing stores throughout the country saying such things as &#8220;fabulous, courageous, and outrageous.&#8221;  They are formally weak plagiarized versions of Jack Pierson’s work and we want you to know that they are not by Jack Pierson. Many people have assumed they are. They are, in fact, made by Simon Doonan, the chief window dresser at Barney’s. Jack Pierson has asked that he remove them but he has refused.<br />
 <br />
-We regret this lack of integrity on the part of Simon Doonan and BarneyÂ’s. They obviously have no respect for artists or the art world.<br />
+We regret this lack of integrity on the part of Simon Doonan and Barney’s. They obviously have no respect for artists or the art world.<br />
 <br />
 Sincerely,<br />
 John Cheim</blockquote>

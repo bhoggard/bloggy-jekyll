@@ -32,9 +32,9 @@ BY <span class="caps">DEBRA</span> <span class="caps">HALE</span>-<span class="c
 <br />
     The film, produced by Hendrix College student Jonathan Crawford, is titled Pink Houses.<br />
 <br />
-    &#8220;I used Pink Houses to say this is more than one household of people. ItÂ’s just presented through&#8230; this couple,&#8221; said Crawford, a junior English major. &#8220;ItÂ’s about the gay population and their rights&#8221; or the fight for those rights.<br />
+    &#8220;I used Pink Houses to say this is more than one household of people. It’s just presented through&#8230; this couple,&#8221; said Crawford, a junior English major. &#8220;It’s about the gay population and their rights&#8221; or the fight for those rights.<br />
 <br />
-    The 51-minute film, already presented twice at Hendrix, is scheduled for a May 3 showing in New York. The film, CrawfordÂ’s first, will be among nearly 300 featured at the New York International Independent Film and Video Festival.<br />
+    The 51-minute film, already presented twice at Hendrix, is scheduled for a May 3 showing in New York. The film, Crawford’s first, will be among nearly 300 featured at the New York International Independent Film and Video Festival.<br />
 <br />
     Before that, it will be shown Friday and Saturday at the University of Central Arkansas as part of Reel Attractions: Arkansas <span class="caps">LGBT</span> (Lesbian, Gay, Bisexual and Transgender ) Film Festival.<br />
 <br />
@@ -52,19 +52,19 @@ BY <span class="caps">DEBRA</span> <span class="caps">HALE</span>-<span class="c
 <br />
     The dialogue opens with the tall, slightly heavyset Schenck and the much smaller Loyd, both 55, sitting in their home and assailing President Bush and Gov. Mike Huckabee for opposing gay marriage.<br />
 <br />
-    The men, partners for 30 years, view their Capitol &#8220;wedding,&#8221; one of several ceremonies theyÂ’ve had, as a necessary protest.<br />
+    The men, partners for 30 years, view their Capitol &#8220;wedding,&#8221; one of several ceremonies they’ve had, as a necessary protest.<br />
 <br />
     &#8220;It was not a real wedding. It was not a legal wedding. But it was a morally correct wedding, and it was a statement against a government that should not be sticking their noses into our business anymore,&#8221; says Loyd, a Vietnam veteran whose graying hair was a bleached blond in the photograph.<br />
 <br />
     While the film is presented from the viewpoint of these two men, it also includes comment from a representative of the Family Council — a Little Rock-based organization that promotes traditional family values — and television footage of Greenbrier farmer Wesley Bono talking about his decision to spread a dump-truck load of manure along streets around the Pink House on the day of last summer’s gay-pride parade.<br />
 <br />
-    &#8220;It didnÂ’t stop us,&#8221; Schenck says in the film, while standing outdoors with Loyd. &#8220;It smelled horrible for a couple of days, but weÂ’re used to dealing with manure.&#8221;<br />
+    &#8220;It didn’t stop us,&#8221; Schenck says in the film, while standing outdoors with Loyd. &#8220;It smelled horrible for a couple of days, but we’re used to dealing with manure.&#8221;<br />
 <br />
     The film also shows footage from the parade, including its more than 100 marchers as well as scores of praying, sign-toting protesters.<br />
 <br />
-    Schenck and especially Loyd donÂ’t mince words in the film. The take swipes at some of the areaÂ’s residents, including those they consider bigots. They say they received death threats after a newspaper ran a story about their efforts to teach tolerance in a class at <span class="caps">UCA</span>.<br />
+    Schenck and especially Loyd don’t mince words in the film. The take swipes at some of the area’s residents, including those they consider bigots. They say they received death threats after a newspaper ran a story about their efforts to teach tolerance in a class at <span class="caps">UCA</span>.<br />
 <br />
-    &#8220;We were just trying to bring the community together, educate the children a little bit so they wouldnÂ’t grow up to be the same rednecks and haters that their parents were,&#8221; says Loyd, who grew up in Damascus.<br />
+    &#8220;We were just trying to bring the community together, educate the children a little bit so they wouldn’t grow up to be the same rednecks and haters that their parents were,&#8221; says Loyd, who grew up in Damascus.<br />
 <br />
     In their 19 years in the Pink House, the two say, people have driven by and shouted derogatory names, shot at their house, broken their car windows and destroyed holiday decorations.<br />
 <br />
@@ -72,24 +72,24 @@ BY <span class="caps">DEBRA</span> <span class="caps">HALE</span>-<span class="c
 <br />
     Loyd and Schenck fire a few verbal shots themselves, at police and the Robinson &amp; Center Church of Christ, whose building sits across the street from the Pink House.<br />
 <br />
-    TheyÂ’ve filed a federal civil rights lawsuit that names the Conway Police Department, Faulkner County sheriffÂ’s office and an officer in each agency.<br />
+    They’ve filed a federal civil rights lawsuit that names the Conway Police Department, Faulkner County sheriff’s office and an officer in each agency.<br />
 <br />
     The lawsuit stems from a Jan. 18, 2003, incident, when the men say a county officer was verbally abusive after they complained about a car blocking their driveway.<br />
 <br />
     They say that officer and a city officer later pushed open their salon door and handcuffed them. Although they were jailed and charged with disorderly conduct, the charges were later dismissed, Schenck said in a brief interview Friday.<br />
 <br />
-    A Conway police spokesman, Lt. Danny Moody, declined to comment Thursday on the allegations. A sheriffÂ’s spokesman, Lt. Jack Pike, could not be reached for comment.<br />
+    A Conway police spokesman, Lt. Danny Moody, declined to comment Thursday on the allegations. A sheriff’s spokesman, Lt. Jack Pike, could not be reached for comment.<br />
 <br />
     In the film Loyd says he and Schenck have &#8220;always had trouble&#8221; with the neighboring church members.<br />
 <br />
-    In the interview the two men complained about some teenagers making insulting comments. Schneck said they talked with the churchÂ’s youth minister, though, and &#8220;that ended.&#8221;<br />
+    In the interview the two men complained about some teenagers making insulting comments. Schneck said they talked with the church’s youth minister, though, and &#8220;that ended.&#8221;<br />
 <br />
-    &#8220;We still get stares. They donÂ’t go out of their way to be nasty anymore,&#8221; he said.<br />
+    &#8220;We still get stares. They don’t go out of their way to be nasty anymore,&#8221; he said.<br />
 <br />
     In a statement Friday, a church minister, Danny Holman, said, &#8220;We have taught the members here the importance of being respectful of all men, even those with whom we have disagreements, and the homosexual community specifically.&#8221;<br />
 <br />
-    He said Schenck and Loyd complained in 1998 about one youthÂ’s comments. Holman said he advised that youth to &#8220;disagree respectfully.&#8221;<br />
+    He said Schenck and Loyd complained in 1998 about one youth’s comments. Holman said he advised that youth to &#8220;disagree respectfully.&#8221;<br />
 <br />
-    Kevin Asman, a Hendrix English professor acted as CrawfordÂ’s project adviser on the film, called it &#8220;a fabulous first effort.&#8221;<br />
+    Kevin Asman, a Hendrix English professor acted as Crawford’s project adviser on the film, called it &#8220;a fabulous first effort.&#8221;<br />
 <br />
     &#8220;He used very limited resources to produce a film that has a lot of artistic merit to it,&#8221; Asman said.</blockquote>

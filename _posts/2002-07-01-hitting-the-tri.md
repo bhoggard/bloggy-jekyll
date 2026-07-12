@@ -9,7 +9,7 @@ permalink: /2002/07/hitting-the-tri.html
 <br />
 This is its basic telling:<br />
 <br />
-&#8220;You know, when I was running for president, in Chicago, somebody said, would you ever have deficit spending? I said, only if we were at war, or only if we had a recession, or only if we had a national emergency. Never did I dream weÂ’d get the trifecta.&#8221;<br />
+&#8220;You know, when I was running for president, in Chicago, somebody said, would you ever have deficit spending? I said, only if we were at war, or only if we had a recession, or only if we had a national emergency. Never did I dream we’d get the trifecta.&#8221;<br />
 <br />
 According to the transcripts, this joke usually elicits laughter from the mostly <span class="caps">GOP</span> crowds to whom Bush tells it.</blockquote>
 <p>Not only is the joke tasteless &#8212; lucky me we got 3,000 Americans killed &#8212; <a href="http://www.msnbc.com/news/773123.asp">it&#8217;s not even true</a>.  The president never mentioned those conditions in his campaign, or while pushing his huge tax cuts.<br />

@@ -12,7 +12,7 @@ While some work with advisers to accumulate art piece by piece over a number of 
 <br />
 Some collectors are like Ronny Zinner of Boston, who could not imagine building her contemporary collection without Leslie Rankow, a consultant based in Manhattan. “I am extremely busy, and Leslie does an incredible amount of research and legwork to stay informed of what’s going on in the art world,” said Mrs. Zinner, who comes from a family of art collectors and owns works by artists like Andy Warhol and Roy Lichtenstein.<br />
 <br />
-Ms. Rankow organizes art walks with her clientÂ’s taste in mind, previewing each gallery and work to build an efficient itinerary. She prepares dossiers on artworks and artists that Mrs. Zinner and her husband, Dr. Michael Zinner, are considering adding to their collection.<br />
+Ms. Rankow organizes art walks with her client’s taste in mind, previewing each gallery and work to build an efficient itinerary. She prepares dossiers on artworks and artists that Mrs. Zinner and her husband, Dr. Michael Zinner, are considering adding to their collection.<br />
 <br />
 &#8230;<br />
 <br />

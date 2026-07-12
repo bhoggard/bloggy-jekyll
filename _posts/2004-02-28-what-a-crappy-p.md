@@ -13,7 +13,7 @@ In late 2003, Blotcher published two stories and, under a new Times policy, his 
 <br />
 “I never dealt with gay issues or <span class="caps">AIDS</span> issues,” Blotcher said.<br />
 <br />
-Someone, an editor, another reporter, or a reader noted BlotcherÂ’s name and recalled that he was once a member of the <span class="caps">AIDS</span> Coalition to Unleash Power, or <span class="caps">ACT</span> UP.<br />
+Someone, an editor, another reporter, or a reader noted Blotcher’s name and recalled that he was once a member of the <span class="caps">AIDS</span> Coalition to Unleash Power, or <span class="caps">ACT</span> UP.<br />
 <br />
 “There was no complaint,” wrote Susan Edgerley, the Times metropolitan editor, in response to a Gay City News e-mail query. “We recognized the name from his work with <span class="caps">ACT</span> UP.”<br />
 <br />
@@ -21,7 +21,7 @@ That was it for Blotcher. On January 12, Lew Serviss, a Times editor, told him t
 <br />
 &#8230;<br />
 <br />
-The real problem here is that The Times isnÂ’t committed to its own ethics policy. LetÂ’s look at just two Times reporters.<br />
+The real problem here is that The Times isn’t committed to its own ethics policy. Let’s look at just two Times reporters.<br />
 <br />
 Lawrence K. Altman is a former employee of the federal Centers for Disease Control and Prevention (<span class="caps">CDC</span>) and he regularly reports on that agency. Altman also sits on an advisory board that administers a <span class="caps">CDC</span> fellowship program. In other words, his relationship with the <span class="caps">CDC</span> continues. That would be an actual conflict of interest.<br />
 <br />

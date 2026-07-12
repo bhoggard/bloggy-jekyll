@@ -14,5 +14,5 @@ permalink: /2008/04/the-clintons-an.html
 <p>During one of the most difficult periods in the presidency of Bill Clinton, he addressed a group of clerics at an annual prayer breakfast in September 1998 just as the Starr report outlining his dalliance with Monica Lewinsky was about to be published.</p>
 </blockquote>
 <blockquote>
-<p>Among those in attendance, was the Rev. Jeremiah Wright Jr., who is seen shaking hands with Mr. Clinton in a photograph provided today by the Obama campaign. Mr. WrightÂ’s relationship with Senator Barack Obama, as his longtime pastor, has been the subject of considerable controversy in recent days because of incendiary excerpts of sermons Mr. Wright gave at their church, Trinity United Church of Christ, in Chicago.</p>
+<p>Among those in attendance, was the Rev. Jeremiah Wright Jr., who is seen shaking hands with Mr. Clinton in a photograph provided today by the Obama campaign. Mr. Wright’s relationship with Senator Barack Obama, as his longtime pastor, has been the subject of considerable controversy in recent days because of incendiary excerpts of sermons Mr. Wright gave at their church, Trinity United Church of Christ, in Chicago.</p>
 </blockquote>

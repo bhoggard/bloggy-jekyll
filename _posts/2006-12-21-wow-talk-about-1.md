@@ -7,7 +7,7 @@ permalink: /2006/12/wow-talk-about-1.html
 
 <p>I would not think that associating the Gucci name with Donald Trump is really a plus.</p>
 <p><a href="http://www.newyorkbusiness.com/apps/pbcs.dll/article?AID=/20061221/FREE/61221007/1058/newsletter01">Gucci inks deal for Trump Tower flagship</a>, <em>Crain&#8217;s New York</em></p>
-<blockquote>Luxury retailer Gucci Group has made plans to move its flagship to Trump Tower and create the worldÂ’s largest Gucci store. <br />
+<blockquote>Luxury retailer Gucci Group has made plans to move its flagship to Trump Tower and create the world’s largest Gucci store. <br />
 <br />
 ..<br />
 <br />

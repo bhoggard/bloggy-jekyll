@@ -10,7 +10,7 @@ permalink: /2002/12/pope-just-keep.html
 <br />
 In his 1999 order defrocking Burns, the pope said the former priest “ought to live away from the places where his previous condition is known.”<br />
 <br />
-But the popeÂ’s order also offered the manÂ’s religious superior an alternative to forcing Burns to abandon the areas where his condition was known.<br />
+But the pope’s order also offered the man’s religious superior an alternative to forcing Burns to abandon the areas where his condition was known.<br />
 <br />
 The religious superior “is able to dispense from this clause of the decree if it is foreseen that the presence of the suppliant will cause no scandal,” the document said.</blockquote>
 <p>At the rate things are going, I&#8217;m going to need a &#8220;Religion&#8221; category.</p>
